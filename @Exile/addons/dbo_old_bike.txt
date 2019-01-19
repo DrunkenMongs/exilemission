@@ -1,0 +1,26 @@
+By downloading this set of files you accept the following conditions ,if you have uploaded these files without these licenses then you accept actions on behalf of all downloaders and reuplaoders in all matters pertaining to these licenses which maybe seen as prohibited and therefore subject to liabilities as decribed therein.
+
+
+The Binarised PBO files are released under :
+APL :
+https://www.bistudio.com/community/licenses/arma-public-license
+
+ The reason for this and the policy behinfd it is (IMO) as follows :
+
+ In the Binarised PBO are files which are not released as Share alike but as APL and thus these files must be continouslty released as such.
+ This means you have two options : 
+(A)to make a new Bike (in this case) and repath your missing textures and or other files to : DBO_Crosser and add DBO_crosser to the Required addons in your cfgpatches
+(B) Make a new folder structure and repath to the new folder ,adding the missing files  Public data (APL PBO) and release as i have under APL.
+
+APL:SA
+ these files are avilable by BIS under there public data downloads , however i have modeified them and thus wanting to share  i releasse under the Sharealike license , because these files are freely available and alli have done is modify , then this is correct , Yopu may choose not to share your changes and simply release a PBO thats binarised , this is frowned upon and obviously not in keeping with the sharealike ethos , however  i`m not sure of legalities
+
+
+
+ Have fun and keep sharing
+
+
+DeanosBeano
+
+
+ 
