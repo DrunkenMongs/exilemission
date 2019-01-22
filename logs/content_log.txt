@@ -47,3 +47,10 @@
 
 [2019-01-14 23:28:33] Loaded 0 apps from install folder "C:\Arma\Server\steamapps\appmanifest_*.acf".
 [2019-01-14 23:28:35] Got 100 content servers from directory
+
+
+[2019-01-19 15:56:44] Loaded 0 apps from install folder "C:\Arma\Server\steamapps\appmanifest_*.acf".
+
+
+[2019-01-19 15:58:13] Loaded 0 apps from install folder "C:\Arma\Server\steamapps\appmanifest_*.acf".
+[2019-01-19 15:58:15] Got 100 content servers from directory

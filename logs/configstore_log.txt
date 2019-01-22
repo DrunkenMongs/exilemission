@@ -58,3 +58,12 @@
 [2019-01-14 23:28:33] Loaded store 'install' from 'C:\Arma\Server\config\config.vdf' successfully
 [2019-01-14 23:28:35] Flushed store 'install' to 'C:\Arma\Server\config\config.vdf'
 [2019-01-14 23:28:36] Flushed store 'install' to 'C:\Arma\Server\config\config.vdf'
+
+
+[2019-01-19 15:56:44] Loaded store 'install' from 'C:\Arma\Server\config\config.vdf' successfully
+[2019-01-19 15:56:49] Flushed store 'install' to 'C:\Arma\Server\config\config.vdf'
+
+
+[2019-01-19 15:58:13] Loaded store 'install' from 'C:\Arma\Server\config\config.vdf' successfully
+[2019-01-19 15:58:14] Flushed store 'install' to 'C:\Arma\Server\config\config.vdf'
+[2019-01-19 15:58:15] Flushed store 'install' to 'C:\Arma\Server\config\config.vdf'
