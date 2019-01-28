@@ -3,6 +3,7 @@
 #include "infiSTAR_AdminMenu.hpp"
 #include "infiSTAR_chat.hpp"
 #include "infiSTAR_KeyBinds.hpp"
+
 #define true 1
 #define false 0
 // Required for the XM8, do not remove!
@@ -13,7 +14,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 author = "Drunken Mongs Team";
 onLoadName = "Development Testing Server";
-onLoadMission= "discord_link";
+onLoadMission= "https://discord.gg/wRB39fU";
 loadScreen = "exile_assets\texture\mod\logo.paa";
 disableChannels[] = {0, 2};
 OnLoadIntro = "";

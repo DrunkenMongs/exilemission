@@ -72,13 +72,14 @@ Level 5:
 
 Rider: 76561198030433683
 Viper: 76561198065853636
-
-Level 4:
-
 Vaas: 76561198013856564
 Madlax: 76561197989383835
 Koenig: 76561198016535899
 Infamous: 76561198080959920
+
+Level 4:
+
+
 
 Administrators (startAsNormal, Menu 2 or 3):
 
@@ -110,7 +111,7 @@ hiddenSuperAdmin[] =
 adminUIDandAccess[] =
 {
 	{
-		{"76561198065853636","76561198030433683"},	/* Normal Menu, Vipes, Rider and Xverion Only */
+		{"76561198065853636","76561198030433683","76561197989383835","76561198013856564","76561198016535899","76561198080959920"},	/* Normal Menu, Vipes, Rider and Xverion Only */
 		{
 			"Territory Management",
 			"Teleport On Map Click","Teleport - Target To Me","Teleport - Me To Target",
@@ -156,7 +157,7 @@ adminUIDandAccess[] =
 		}
 	},
 	{
-		{"76561197989383835","76561198013856564","76561198016535899","76561198080959920"}, // Level 4 - !ADMIN
+		{""}, // Level 4 - !ADMIN
 		{
 			"Teleport On Map Click","Teleport - Target To Me","Teleport - Me To Target",
 			"Teleport In Facing Direction (10m steps)","Drag and drop units on the map",
