@@ -1,0 +1,289 @@
+﻿18.01.2019 23:43:59: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Started @ 213.543 : [FPS: 45.7143|PLAYERS: 0|THREADS: 5]
+18.01.2019 23:43:59: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 4 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active SQF: ["ZCP_fnc_start","x\addons\ZCP\functions\fn_getRandomCity.sqf [ZCP_fnc_getRandomCity]",true,38] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,85] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-213.543] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-213.543] @ 213.543
+18.01.2019 23:43:59: V70 (14-11-2018) [processReporter] Ended @ 213.543
+18.01.2019 23:45:03: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Started @ 276.971 : [FPS: 45.4545|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:45:03: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,126] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-276.971] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-276.971] @ 276.971
+18.01.2019 23:45:03: V70 (14-11-2018) [processReporter] Ended @ 276.971
+18.01.2019 23:46:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Started @ 341.845 : [FPS: 45.1977|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:46:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,302] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-341.845] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-341.845] @ 341.845
+18.01.2019 23:46:08: V70 (14-11-2018) [processReporter] Ended @ 341.845
+18.01.2019 23:47:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Started @ 401.911 : [FPS: 45.7143|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:47:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-401.911] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-401.911] @ 401.911
+18.01.2019 23:47:08: V70 (14-11-2018) [processReporter] Ended @ 401.911
+18.01.2019 23:48:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Started @ 462.038 : [FPS: 45.584|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:48:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,302] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-462.038] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-462.038] @ 462.038
+18.01.2019 23:48:08: V70 (14-11-2018) [processReporter] Ended @ 462.059
+18.01.2019 23:49:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Started @ 522.162 : [FPS: 45.8453|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:49:08: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-522.162] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-522.162] @ 522.162
+18.01.2019 23:49:08: V70 (14-11-2018) [processReporter] Ended @ 522.162
+18.01.2019 23:50:19: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Started @ 592.532 : [FPS: 47.619|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:50:19: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-592.532] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-592.532] @ 592.532
+18.01.2019 23:50:19: V70 (14-11-2018) [processReporter] Ended @ 592.532
+18.01.2019 23:51:21: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Started @ 655.072 : [FPS: 45.584|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:51:21: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-655.072] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-655.072] @ 655.072
+18.01.2019 23:51:21: V70 (14-11-2018) [processReporter] Ended @ 655.072
+18.01.2019 23:52:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Started @ 715.221 : [FPS: 46.2428|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:52:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-715.221] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-715.221] @ 715.221
+18.01.2019 23:52:22: V70 (14-11-2018) [processReporter] Ended @ 715.221
+18.01.2019 23:53:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Started @ 775.369 : [FPS: 45.584|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:53:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 775.369
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 775.369
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 775.39
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 775.39
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-775.39] @ 775.39
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-775.39] @ 775.39
+18.01.2019 23:53:22: V70 (14-11-2018) [processReporter] Ended @ 775.39
+18.01.2019 23:54:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Started @ 835.54 : [FPS: 45.7143|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:54:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-835.54] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-835.54] @ 835.54
+18.01.2019 23:54:22: V70 (14-11-2018) [processReporter] Ended @ 835.54
+18.01.2019 23:55:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Started @ 895.626 : [FPS: 45.4545|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:55:22: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-895.626] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-895.626] @ 895.626
+18.01.2019 23:55:22: V70 (14-11-2018) [processReporter] Ended @ 895.626
+18.01.2019 23:56:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Started @ 959.969 : [FPS: 45.7143|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:56:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 959.969
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 959.969
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 959.969
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 959.991
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-959.991] @ 959.991
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-959.991] @ 959.991
+18.01.2019 23:56:26: V70 (14-11-2018) [processReporter] Ended @ 959.991
+18.01.2019 23:57:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Started @ 1020.08 : [FPS: 46.5116|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:57:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-1020.08] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-1020.08] @ 1020.08
+18.01.2019 23:57:26: V70 (14-11-2018) [processReporter] Ended @ 1020.08
+18.01.2019 23:58:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Started @ 1080.24 : [FPS: 46.5116|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:58:26: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-1080.24] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-1080.24] @ 1080.24
+18.01.2019 23:58:26: V70 (14-11-2018) [processReporter] Ended @ 1080.24
+18.01.2019 23:59:27: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Started @ 1140.35 : [FPS: 45.977|PLAYERS: 0|THREADS: 4]
+18.01.2019 23:59:27: V70 (14-11-2018) =======================================================================================================
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Process Counts: spawn-ed: 3 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4301] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		comment ""REMOTE_T"";
+		scriptName ""<spawn>"";
+		_toServer = _this;
+		_li = missionN","",true,750] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active SQF: ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active FSM: ["main.fsm","Wait",-1140.35] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Active FSM: ["missions","Waiting",-1140.35] @ 1140.35
+18.01.2019 23:59:27: V70 (14-11-2018) [processReporter] Ended @ 1140.35

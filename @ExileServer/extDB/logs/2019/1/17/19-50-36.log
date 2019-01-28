@@ -1,0 +1,25 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 12 Cores, Setting up 6 Worker Threads
+
+
+[20:50:38:503404 +00:-1] [Thread 2432] extDB2: Database Type: MySQL
+[20:50:38:552266 +00:-1] [Thread 2432] extDB2: Database Session Pool Started
+[20:50:38:556374 +00:-1] [Thread 2432] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\extDB\sql_custom_v2\exile.ini
+[20:50:38:556795 +00:-1] [Thread 2432] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[20:51:26:109901 +00:-1] [Thread 9416] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:DMS_DEBUG:DMS post-init complete. productVersion  ["Arma 3","Arma3",188,145285,"Stable",true,"Windows","x86"] | infiSTAR version  14-01-2019 17-50-13 - v93 | | | (DMS_Version  "September 7, 2017" | time  0 | diag_tickTime  123.193 | 10.8548 FPS)
+[20:51:26:109971 +00:-1] [Thread 9416] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[20:51:35:901067 +00:-1] [Thread 5916] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected  Steve Jobs(76561198065853636) Owner  4
+[20:51:35:901134 +00:-1] [Thread 5916] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[20:51:35:901312 +00:-1] [Thread 5916] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:TOKENLOG:TOKEN [x8i2cjsm6cj2gklk5zl] FOR Steve Jobs(76561198065853636) OWNER  4, ID  7.25692e+008, JIP  true
+[20:51:35:901358 +00:-1] [Thread 5916] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog

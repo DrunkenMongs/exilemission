@@ -1,0 +1,47 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 12 Cores, Setting up 6 Worker Threads
+
+
+[14:29:23:820424 +00:-1] [Thread 3956] extDB2: Database Type: MySQL
+[14:29:23:873687 +00:-1] [Thread 3956] extDB2: Database Session Pool Started
+[14:29:23:881293 +00:-1] [Thread 3956] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\extDB\sql_custom_v2\exile.ini
+[14:29:23:881752 +00:-1] [Thread 3956] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[14:30:12:725937 +00:-1] [Thread 6400] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:DMS_DEBUG:DMS post-init complete. productVersion  ["Arma 3","Arma3",188,145285,"Stable",true,"Windows","x86"] | infiSTAR version  14-01-2019 17-50-13 - v93 | | | (DMS_Version  "September 7, 2017" | time  0 | diag_tickTime  136.836 | 9.93172 FPS)
+[14:30:12:726008 +00:-1] [Thread 6400] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:28:881757 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:KICKLOG:bklon(76561198026342686) isAdmin? false  NOT WHITELISTED
+[15:12:28:881895 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:28:895179 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:NEW_PLAYER:bklon(76561198026342686)
+[15:12:28:895237 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:28:895387 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected  bklon(76561198026342686) Owner  5
+[15:12:28:895406 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:28:895620 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:TOKENLOG:TOKEN [pm140q2vx1ystl1] FOR bklon(76561198026342686) OWNER  5, ID  6.03689e+008, JIP  true
+[15:12:28:895667 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:28:942084 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Disconnected  bklon(76561198026342686) Owner  5, SteamName  
+[15:12:28:942157 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:51:004664 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:KICKLOG:bklon(76561198026342686) isAdmin? false  NOT WHITELISTED
+[15:12:51:004730 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:51:015969 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected  bklon(76561198026342686) Owner  6
+[15:12:51:016027 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:51:016214 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:TOKENLOG:TOKEN [rb9l7d7ghm4kg8nj] FOR bklon(76561198026342686) OWNER  6, ID  6.55894e+008, JIP  true
+[15:12:51:016277 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:12:51:045052 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Disconnected  bklon(76561198026342686) Owner  6, SteamName  
+[15:12:51:045120 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:16:27:448606 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:KICKLOG:bklon(76561198026342686) isAdmin? false  NOT WHITELISTED
+[15:16:27:448675 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:16:27:462741 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected  bklon(76561198026342686) Owner  7
+[15:16:27:462796 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:16:27:463024 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:TOKENLOG:TOKEN [k52l0lwvaks0xyl] FOR bklon(76561198026342686) OWNER  7, ID  8.72411e+008, JIP  true
+[15:16:27:463070 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[15:16:27:488756 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Disconnected  bklon(76561198026342686) Owner  7, SteamName  
+[15:16:27:488843 +00:-1] [Thread 5268] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog

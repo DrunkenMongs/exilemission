@@ -1,0 +1,46 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 12 Cores, Setting up 6 Worker Threads
+
+
+[23:35:03:860927 +00:-1] [Thread 4228] extDB2: Database Type: MySQL
+[23:35:03:920211 +00:-1] [Thread 4228] extDB2: Database Session Pool Started
+[23:35:03:924300 +00:-1] [Thread 4228] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\extDB\sql_custom_v2\exile.ini
+[23:35:03:924708 +00:-1] [Thread 4228] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[23:35:05:403727 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected (UID?)  __SERVER__() Owner  2
+[23:35:05:403803 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:35:57:528298 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:DMS_DEBUG:DMS post-init complete. productVersion  ["Arma 3","Arma3",188,145285,"Stable",true,"Windows","x86"] | infiSTAR version  14-01-2019 17-50-13 - v93 | | | (DMS_Version  "September 7, 2017" | time  19.265 | diag_tickTime  141.379 | 37.5587 FPS)
+[23:35:57:528371 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:37:28:270972 +00:-1] [Thread 3972] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected  Steve Jobs(76561198065853636) Owner  4
+[23:37:28:271048 +00:-1] [Thread 3972] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:37:28:271208 +00:-1] [Thread 3972] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:TOKENLOG:TOKEN [s0xbspibq8sosn501] FOR Steve Jobs(76561198065853636) OWNER  4, ID  4.11105e+008, JIP  true
+[23:37:28:271268 +00:-1] [Thread 3972] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:37:31:350618 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:CONNECTLOG:Connected (CLIENT_PING)  Steve Jobs(76561198065853636) Owner  4, SteamName  Vipes   [UpTime  0h 1min 53s - ServerFPS  45.4545]
+[23:37:31:350686 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:37:42:864191 +00:-1] [Thread 4228] extDB2: SQL_CUSTOM_V2: Error StatementException: MySQL: [MySQL]: [Comment]: mysql_stmt_execute error	[mysql_stmt_error]: Field 'assigned_items' doesn't have a default value	[mysql_stmt_errno]: 1364	[mysql_stmt_sqlstate]: HY000	[statemnt]: INSERT INTO player SET account_uid = ?, name = ?
+[23:37:42:864343 +00:-1] [Thread 4228] extDB2: SQL_CUSTOM_V2: Wiping Statements + Session
+[23:37:42:864382 +00:-1] [Thread 4228] extDB2: SQL_CUSTOM_V2: Error: UniqueID: 1 Input String: createPlayer:76561198065853636:Steve Jobs
+[23:38:09:845569 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) =============================================================================================================
+[23:38:09:845649 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:845759 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) [OCCUPATION MOD]  Occupation V70 (14-11-2018) Initialised at 149.061
+[23:38:09:845879 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:845936 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) =============================================================================================================
+[23:38:09:845957 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:869543 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) [OCCUPATION Traders] starting @ 149.083
+[23:38:09:869639 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:886216 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) [processReporter]  Initialised at 149.083
+[23:38:09:886283 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:887738 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) [OCCUPATION]  Detected DMS version September 7, 2017
+[23:38:09:887784 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[23:38:09:887891 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:lolxdmeme:OCCUPATION:V70 (14-11-2018) [OCCUPATION]  Occupation V70 (14-11-2018) Adding modules to Exile system thread manager at 149.104
+[23:38:09:887911 +00:-1] [Thread 9164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog

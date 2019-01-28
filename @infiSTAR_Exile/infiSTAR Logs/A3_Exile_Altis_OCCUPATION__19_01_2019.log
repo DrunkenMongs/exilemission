@@ -1,0 +1,1125 @@
+﻿19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1200.47
+19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:Vehicle] End check 3 currently active (max 3) @ 1200.49
+19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:00:27: V70 (14-11-2018) [OCCUPATION:Sky] End check 1 currently active (max 1) @ 1200.49
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:40 multipler is 4
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1220.34
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Anthrakia position: [16584.3,16104,-15.1762]
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: (Anthrakia) [16584.3,16104,-15.1762] is not a safe place to spawn
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Telos position: [16207,17296.7,-24.3308]
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 78 so not spawning AI this time
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Gravia position: [14479.8,17614.3,-21.6749]
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 1 so not spawning AI this time
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Stavros position: [12950.1,15041.6,-28.1891]
+19.01.2019 00:00:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 75 so not spawning AI this time
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Charkia position: [18049.1,15264.1,-28.4237]
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 3 so not spawning AI this time
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neochori position: [12502,14337,-11.5868]
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: (Neochori) [12502,14337,-11.5868] is not a safe place to spawn
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Pyrgos position: [16780.6,12604.5,-18.9913]
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 55 so not spawning AI this time
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Lakka position: [12282,15732.3,-23.0026]
+19.01.2019 00:00:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Rodopoli position: [18753.4,16597.1,-32.1656]
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 69 so not spawning AI this time
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Athira position: [13993,18709.4,-25.735]
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 63 so not spawning AI this time
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalithea position: [17826.5,18129.4,-1.99341]
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 8 so not spawning AI this time
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Katalaki position: [11701.1,13672.1,-12.7303]
+19.01.2019 00:00:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 33 so not spawning AI this time
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Nifi position: [19473.3,15453.7,-22.9098]
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Alikampos position: [11112.6,14573.7,-42.5353]
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 31 so not spawning AI this time
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Dorida position: [19336.9,13252.3,-37.8615]
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: (Dorida) [19336.9,13252.3,-37.8615] is not a safe place to spawn
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Petros position: [19339.4,17641.6,-37.4067]
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 71 so not spawning AI this time
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Koroni position: [11786.7,18372.4,-51.9314]
+19.01.2019 00:00:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 40 so not spawning AI this time
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Poliakko position: [10966.5,13435.3,-28.4601]
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: (Poliakko) [10966.5,13435.3,-28.4601] is not a safe place to spawn
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ifestiona position: [12787,19679.3,-46.1323]
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 46 so not spawning AI this time
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agia Triada position: [16668.5,20487,-4.767]
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Orino position: [10410.4,17243.1,-82.7311]
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 8 so not spawning AI this time
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Frini position: [14612.5,20786.7,-47.0032]
+19.01.2019 00:00:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 58 so not spawning AI this time
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ekali position: [17059.7,9992.32,-21.8159]
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Therisa position: [10618.9,12237.3,-16.0326]
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 37 so not spawning AI this time
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Paros position: [20885.4,16958.8,-49.8089]
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalochori position: [21351.6,16361.9,-20.5678]
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 68 so not spawning AI this time
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Chalkeia position: [20194.6,11660.7,-45.8388]
+19.01.2019 00:00:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 69 so not spawning AI this time
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Dionysios position: [9187.95,15947.8,-124.829]
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 23 so not spawning AI this time
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Galati position: [10270.3,19036,-120.191]
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: (Galati) [10270.3,19036,-120.191] is not a safe place to spawn
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Zaros position: [9091.81,11961.9,-19.9013]
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: (Zaros) [9091.81,11961.9,-19.9013] is not a safe place to spawn
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Syrta position: [8625.13,18301.6,-179.297]
+19.01.2019 00:00:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 18 so not spawning AI this time
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Abdera position: [9425.42,20284,-122.26]
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 75 so not spawning AI this time
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Topolia position: [7375.81,15429.5,-54.782]
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 22 so not spawning AI this time
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panagia position: [20490.2,8907.12,-34.5332]
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 3 so not spawning AI this time
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kore position: [7062.42,16472.1,-116.425]
+19.01.2019 00:00:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 37 so not spawning AI this time
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ioannina position: [23199.7,19986.6,-14.2541]
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 70 so not spawning AI this time
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Delfinaki position: [23908.6,20144.7,-14.0692]
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 52 so not spawning AI this time
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Feres position: [21640.7,7583.93,-14.1929]
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 15 so not spawning AI this time
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Selakano position: [20769.8,6736.46,-37.9427]
+19.01.2019 00:00:55: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 79 so not spawning AI this time
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Negades position: [4885.98,16171.3,-77.5036]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 15 so not spawning AI this time
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panochori position: [5033.31,11245.2,-48.317]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: (Panochori) [5033.31,11245.2,-48.317] is not a safe place to spawn
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Konstantinos position: [3948.77,17277.8,-11.6385]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 58 so not spawning AI this time
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Aggelochori position: [3687.78,13776.1,-10.7639]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neri position: [4116.11,11736.1,-50.8535]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 62 so not spawning AI this time
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Sofia position: [25680.5,21365.1,-20.7333]
+19.01.2019 00:00:56: V70 (14-11-2018) [OCCUPATION:Places]:: (Sofia) [25680.5,21365.1,-20.7333] is not a safe place to spawn
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kavala position: [3458.95,12966.4,-6.1822]
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 21 so not spawning AI this time
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Oreokastro position: [4560.45,21460.6,-302.575]
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Molos position: [26943.9,23170.7,-18.0848]
+19.01.2019 00:00:57: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 78 so not spawning AI this time
+19.01.2019 00:01:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1235.88
+19.01.2019 00:01:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:01:05: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:01:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:01:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:01:11: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1244
+19.01.2019 00:01:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1264.04
+19.01.2019 00:01:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:01:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:44 multipler is 4
+19.01.2019 00:02:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1324.16
+19.01.2019 00:02:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:02:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:48 multipler is 4
+19.01.2019 00:03:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1384.26
+19.01.2019 00:03:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:03:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:52 multipler is 4
+19.01.2019 00:04:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1444.36
+19.01.2019 00:04:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:04:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:56 multipler is 4
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1504.49
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:Vehicle] End check 3 currently active (max 3) @ 1504.51
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:05:31: V70 (14-11-2018) [OCCUPATION:Sky] End check 1 currently active (max 1) @ 1504.51
+19.01.2019 00:05:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:0 multipler is 4
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1534.56
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Anthrakia position: [16584.3,16104,-15.1762]
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 77 so not spawning AI this time
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Telos position: [16207,17296.7,-24.3308]
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Gravia position: [14479.8,17614.3,-21.6749]
+19.01.2019 00:06:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 16 so not spawning AI this time
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Stavros position: [12950.1,15041.6,-28.1891]
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: (Stavros) [12950.1,15041.6,-28.1891] is not a safe place to spawn
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Charkia position: [18049.1,15264.1,-28.4237]
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neochori position: [12502,14337,-11.5868]
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 12 so not spawning AI this time
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Pyrgos position: [16780.6,12604.5,-18.9913]
+19.01.2019 00:06:02: V70 (14-11-2018) [OCCUPATION:Places]:: (Pyrgos) [16780.6,12604.5,-18.9913] is not a safe place to spawn
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Lakka position: [12282,15732.3,-23.0026]
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: (Lakka) [12282,15732.3,-23.0026] is not a safe place to spawn
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Rodopoli position: [18753.4,16597.1,-32.1656]
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: (Rodopoli) [18753.4,16597.1,-32.1656] is not a safe place to spawn
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Athira position: [13993,18709.4,-25.735]
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: (Athira) [13993,18709.4,-25.735] is not a safe place to spawn
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalithea position: [17826.5,18129.4,-1.99341]
+19.01.2019 00:06:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 18 so not spawning AI this time
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Katalaki position: [11701.1,13672.1,-12.7303]
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Nifi position: [19473.3,15453.7,-22.9098]
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 70 so not spawning AI this time
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Alikampos position: [11112.6,14573.7,-42.5353]
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 46 so not spawning AI this time
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Dorida position: [19336.9,13252.3,-37.8615]
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 37 so not spawning AI this time
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Petros position: [19339.4,17641.6,-37.4067]
+19.01.2019 00:06:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 18 so not spawning AI this time
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Koroni position: [11786.7,18372.4,-51.9314]
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: (Koroni) [11786.7,18372.4,-51.9314] is not a safe place to spawn
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Poliakko position: [10966.5,13435.3,-28.4601]
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 17 so not spawning AI this time
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ifestiona position: [12787,19679.3,-46.1323]
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 55 so not spawning AI this time
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agia Triada position: [16668.5,20487,-4.767]
+19.01.2019 00:06:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 73 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Orino position: [10410.4,17243.1,-82.7311]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 18 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Frini position: [14612.5,20786.7,-47.0032]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 2 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ekali position: [17059.7,9992.32,-21.8159]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 16 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Therisa position: [10618.9,12237.3,-16.0326]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 37 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Paros position: [20885.4,16958.8,-49.8089]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalochori position: [21351.6,16361.9,-20.5678]
+19.01.2019 00:06:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Chalkeia position: [20194.6,11660.7,-45.8388]
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 60 so not spawning AI this time
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Dionysios position: [9187.95,15947.8,-124.829]
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Galati position: [10270.3,19036,-120.191]
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: (Galati) [10270.3,19036,-120.191] is not a safe place to spawn
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Zaros position: [9091.81,11961.9,-19.9013]
+19.01.2019 00:06:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 37 so not spawning AI this time
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Syrta position: [8625.13,18301.6,-179.297]
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 71 so not spawning AI this time
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Abdera position: [9425.42,20284,-122.26]
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Topolia position: [7375.81,15429.5,-54.782]
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 2 so not spawning AI this time
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panagia position: [20490.2,8907.12,-34.5332]
+19.01.2019 00:06:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 60 so not spawning AI this time
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kore position: [7062.42,16472.1,-116.425]
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: (Kore) [7062.42,16472.1,-116.425] is not a safe place to spawn
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ioannina position: [23199.7,19986.6,-14.2541]
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 57 so not spawning AI this time
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Delfinaki position: [23908.6,20144.7,-14.0692]
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 7 so not spawning AI this time
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Feres position: [21640.7,7583.93,-14.1929]
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 14 so not spawning AI this time
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Selakano position: [20769.8,6736.46,-37.9427]
+19.01.2019 00:06:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Negades position: [4885.98,16171.3,-77.5036]
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: (Negades) [4885.98,16171.3,-77.5036] is not a safe place to spawn
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panochori position: [5033.31,11245.2,-48.317]
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 7 so not spawning AI this time
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Konstantinos position: [3948.77,17277.8,-11.6385]
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 4 so not spawning AI this time
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Aggelochori position: [3687.78,13776.1,-10.7639]
+19.01.2019 00:06:10: V70 (14-11-2018) [OCCUPATION:Places]:: (Aggelochori) [3687.78,13776.1,-10.7639] is not a safe place to spawn
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neri position: [4116.11,11736.1,-50.8535]
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 77 so not spawning AI this time
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Sofia position: [25680.5,21365.1,-20.7333]
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kavala position: [3458.95,12966.4,-6.1822]
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 49 so not spawning AI this time
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Oreokastro position: [4560.45,21460.6,-302.575]
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 4 so not spawning AI this time
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Molos position: [26943.9,23170.7,-18.0848]
+19.01.2019 00:06:11: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:06:16: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1549.92
+19.01.2019 00:06:16: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:06:19: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:06:21: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:06:23: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:06:25: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1558.05
+19.01.2019 00:06:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1568.06
+19.01.2019 00:06:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:06:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:4 multipler is 4
+19.01.2019 00:07:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1628.24
+19.01.2019 00:07:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:07:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:8 multipler is 4
+19.01.2019 00:08:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1688.39
+19.01.2019 00:08:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:08:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:12 multipler is 4
+19.01.2019 00:09:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1748.49
+19.01.2019 00:09:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:09:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:16 multipler is 4
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1808.59
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:Vehicle] End check 3 currently active (max 3) @ 1808.61
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:10:35: V70 (14-11-2018) [OCCUPATION:Sky] End check 1 currently active (max 1) @ 1808.61
+19.01.2019 00:10:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:20 multipler is 4
+19.01.2019 00:11:15: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1848.71
+19.01.2019 00:11:15: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Anthrakia position: [16584.3,16104,-15.1762]
+19.01.2019 00:11:15: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 19 so not spawning AI this time
+19.01.2019 00:11:15: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Telos position: [16207,17296.7,-24.3308]
+19.01.2019 00:11:15: V70 (14-11-2018) [OCCUPATION:Places]:: (Telos) [16207,17296.7,-24.3308] is not a safe place to spawn
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Gravia position: [14479.8,17614.3,-21.6749]
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: (Gravia) [14479.8,17614.3,-21.6749] is not a safe place to spawn
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Stavros position: [12950.1,15041.6,-28.1891]
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: (Stavros) [12950.1,15041.6,-28.1891] is not a safe place to spawn
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Charkia position: [18049.1,15264.1,-28.4237]
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 70 so not spawning AI this time
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neochori position: [12502,14337,-11.5868]
+19.01.2019 00:11:16: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 45 so not spawning AI this time
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Pyrgos position: [16780.6,12604.5,-18.9913]
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 34 so not spawning AI this time
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Lakka position: [12282,15732.3,-23.0026]
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 62 so not spawning AI this time
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Rodopoli position: [18753.4,16597.1,-32.1656]
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 58 so not spawning AI this time
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Athira position: [13993,18709.4,-25.735]
+19.01.2019 00:11:17: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalithea position: [17826.5,18129.4,-1.99341]
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: (Kalithea) [17826.5,18129.4,-1.99341] is not a safe place to spawn
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Katalaki position: [11701.1,13672.1,-12.7303]
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: (Katalaki) [11701.1,13672.1,-12.7303] is not a safe place to spawn
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Nifi position: [19473.3,15453.7,-22.9098]
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 67 so not spawning AI this time
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Alikampos position: [11112.6,14573.7,-42.5353]
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Dorida position: [19336.9,13252.3,-37.8615]
+19.01.2019 00:11:18: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Petros position: [19339.4,17641.6,-37.4067]
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 3 so not spawning AI this time
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Koroni position: [11786.7,18372.4,-51.9314]
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Poliakko position: [10966.5,13435.3,-28.4601]
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 65 so not spawning AI this time
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ifestiona position: [12787,19679.3,-46.1323]
+19.01.2019 00:11:19: V70 (14-11-2018) [OCCUPATION:Places]:: (Ifestiona) [12787,19679.3,-46.1323] is not a safe place to spawn
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agia Triada position: [16668.5,20487,-4.767]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 4 so not spawning AI this time
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Orino position: [10410.4,17243.1,-82.7311]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Frini position: [14612.5,20786.7,-47.0032]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 70 so not spawning AI this time
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ekali position: [17059.7,9992.32,-21.8159]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 23 so not spawning AI this time
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Therisa position: [10618.9,12237.3,-16.0326]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 54 so not spawning AI this time
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Paros position: [20885.4,16958.8,-49.8089]
+19.01.2019 00:11:20: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalochori position: [21351.6,16361.9,-20.5678]
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 57 so not spawning AI this time
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Chalkeia position: [20194.6,11660.7,-45.8388]
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: (Chalkeia) [20194.6,11660.7,-45.8388] is not a safe place to spawn
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Dionysios position: [9187.95,15947.8,-124.829]
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 43 so not spawning AI this time
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Galati position: [10270.3,19036,-120.191]
+19.01.2019 00:11:21: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 55 so not spawning AI this time
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Zaros position: [9091.81,11961.9,-19.9013]
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 64 so not spawning AI this time
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Syrta position: [8625.13,18301.6,-179.297]
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 7 so not spawning AI this time
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Abdera position: [9425.42,20284,-122.26]
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: (Abdera) [9425.42,20284,-122.26] is not a safe place to spawn
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Topolia position: [7375.81,15429.5,-54.782]
+19.01.2019 00:11:22: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 17 so not spawning AI this time
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panagia position: [20490.2,8907.12,-34.5332]
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 48 so not spawning AI this time
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kore position: [7062.42,16472.1,-116.425]
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 15 so not spawning AI this time
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ioannina position: [23199.7,19986.6,-14.2541]
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 57 so not spawning AI this time
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Delfinaki position: [23908.6,20144.7,-14.0692]
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 6 so not spawning AI this time
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Feres position: [21640.7,7583.93,-14.1929]
+19.01.2019 00:11:23: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 24 so not spawning AI this time
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Selakano position: [20769.8,6736.46,-37.9427]
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: (Selakano) [20769.8,6736.46,-37.9427] is not a safe place to spawn
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Negades position: [4885.98,16171.3,-77.5036]
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 71 so not spawning AI this time
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panochori position: [5033.31,11245.2,-48.317]
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Konstantinos position: [3948.77,17277.8,-11.6385]
+19.01.2019 00:11:24: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 1 so not spawning AI this time
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Aggelochori position: [3687.78,13776.1,-10.7639]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 22 so not spawning AI this time
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neri position: [4116.11,11736.1,-50.8535]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: (Neri) [4116.11,11736.1,-50.8535] is not a safe place to spawn
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Sofia position: [25680.5,21365.1,-20.7333]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 10 so not spawning AI this time
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kavala position: [3458.95,12966.4,-6.1822]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 45 so not spawning AI this time
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Oreokastro position: [4560.45,21460.6,-302.575]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: (Oreokastro) [4560.45,21460.6,-302.575] is not a safe place to spawn
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Molos position: [26943.9,23170.7,-18.0848]
+19.01.2019 00:11:25: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+19.01.2019 00:11:31: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1864.19
+19.01.2019 00:11:31: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:11:33: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:11:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:11:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:11:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1872.32
+19.01.2019 00:11:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1877.25
+19.01.2019 00:11:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:11:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:24 multipler is 4
+19.01.2019 00:12:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1937.36
+19.01.2019 00:12:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:12:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:28 multipler is 4
+19.01.2019 00:13:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1997.5
+19.01.2019 00:13:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:13:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:32 multipler is 4
+19.01.2019 00:14:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2057.65
+19.01.2019 00:14:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:15:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:36 multipler is 4
+19.01.2019 00:15:40: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:15:40: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:15:40: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:15:40: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:15:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2117.83
+19.01.2019 00:15:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:16:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:40 multipler is 4
+19.01.2019 00:16:30: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2162.98
+19.01.2019 00:16:30: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:16:40: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2173
+19.01.2019 00:16:40: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:16:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:16:44: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:16:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:16:48: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2181.12
+19.01.2019 00:16:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2186.14
+19.01.2019 00:16:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:17:03: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:45 multipler is 4
+19.01.2019 00:17:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2246.31
+19.01.2019 00:17:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:18:03: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:49 multipler is 4
+19.01.2019 00:18:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2306.46
+19.01.2019 00:18:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:19:03: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:53 multipler is 4
+19.01.2019 00:19:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2366.57
+19.01.2019 00:19:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:20:03: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:57 multipler is 4
+19.01.2019 00:20:44: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:20:44: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:20:44: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:20:44: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:20:54: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2426.71
+19.01.2019 00:20:54: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:21:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 18:1 multipler is 24
+19.01.2019 00:21:34: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2466.81
+19.01.2019 00:21:34: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:21:49: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2481.91
+19.01.2019 00:21:49: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:21:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:21:53: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:21:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:21:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2490.05
+19.01.2019 00:22:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2495.07
+19.01.2019 00:22:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:22:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 18:26 multipler is 24
+19.01.2019 00:23:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2555.21
+19.01.2019 00:23:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:23:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 18:50 multipler is 24
+19.01.2019 00:24:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2615.4
+19.01.2019 00:24:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:24:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 19:14 multipler is 24
+19.01.2019 00:25:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2675.55
+19.01.2019 00:25:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:25:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 19:38 multipler is 24
+19.01.2019 00:25:48: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:25:48: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:25:48: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:25:48: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:26:03: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2735.67
+19.01.2019 00:26:03: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:26:08: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 20:2 multipler is 24
+19.01.2019 00:26:38: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2770.76
+19.01.2019 00:26:38: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:26:58: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2790.82
+19.01.2019 00:26:58: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:27:00: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:27:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:27:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:27:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2798.93
+19.01.2019 00:27:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 20:28 multipler is 24
+19.01.2019 00:27:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2803.97
+19.01.2019 00:27:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:28:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 20:52 multipler is 24
+19.01.2019 00:28:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2864.12
+19.01.2019 00:28:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:29:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 21:16 multipler is 24
+19.01.2019 00:29:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2924.28
+19.01.2019 00:29:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:30:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 21:40 multipler is 24
+19.01.2019 00:30:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2984.34
+19.01.2019 00:30:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:30:51: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:30:51: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:30:51: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:30:51: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:31:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 22:4 multipler is 24
+19.01.2019 00:31:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3044.54
+19.01.2019 00:31:11: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:31:42: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3074.6
+19.01.2019 00:31:42: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:32:07: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3099.65
+19.01.2019 00:32:07: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:32:09: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:32:11: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:32:13: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:32:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3107.79
+19.01.2019 00:32:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 22:31 multipler is 24
+19.01.2019 00:32:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3112.81
+19.01.2019 00:32:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:33:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 22:55 multipler is 24
+19.01.2019 00:33:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3172.95
+19.01.2019 00:33:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:34:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 23:19 multipler is 24
+19.01.2019 00:34:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3233.13
+19.01.2019 00:34:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:35:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 23:43 multipler is 24
+19.01.2019 00:35:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3293.25
+19.01.2019 00:35:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:35:55: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:35:55: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:35:55: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:35:55: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:36:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 0:7 multipler is 24
+19.01.2019 00:36:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3353.4
+19.01.2019 00:36:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:36:45: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3378.46
+19.01.2019 00:36:45: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:37:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3408.52
+19.01.2019 00:37:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:37:18: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:37:20: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:37:22: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:37:24: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3416.66
+19.01.2019 00:37:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 0:35 multipler is 24
+19.01.2019 00:37:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3421.68
+19.01.2019 00:37:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:38:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 0:59 multipler is 24
+19.01.2019 00:38:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3481.8
+19.01.2019 00:38:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:39:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 1:23 multipler is 24
+19.01.2019 00:39:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3541.92
+19.01.2019 00:39:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:40:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 1:47 multipler is 24
+19.01.2019 00:40:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3601.98
+19.01.2019 00:40:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:40:59: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:40:59: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:40:59: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:40:59: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:41:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 2:11 multipler is 24
+19.01.2019 00:41:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3662.12
+19.01.2019 00:41:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:41:49: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3682.21
+19.01.2019 00:41:49: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:42:24: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3717.28
+19.01.2019 00:42:25: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:42:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:42:29: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:42:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:42:32: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3725.41
+19.01.2019 00:42:38: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 2:38 multipler is 24
+19.01.2019 00:42:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3730.43
+19.01.2019 00:42:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:43:38: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 3:2 multipler is 24
+19.01.2019 00:43:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3790.56
+19.01.2019 00:43:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:44:38: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 3:26 multipler is 24
+19.01.2019 00:44:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3850.72
+19.01.2019 00:44:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:45:38: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 3:50 multipler is 24
+19.01.2019 00:45:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3910.8
+19.01.2019 00:45:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:46:03: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:46:03: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:46:03: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:46:03: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:46:38: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 4:14 multipler is 24
+19.01.2019 00:46:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3970.97
+19.01.2019 00:46:38: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:46:53: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3985.99
+19.01.2019 00:46:53: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:47:33: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 4026.08
+19.01.2019 00:47:33: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:47:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:47:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:47:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:47:41: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 4034.22
+19.01.2019 00:47:46: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 4:42 multipler is 24
+19.01.2019 00:47:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4039.25
+19.01.2019 00:47:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:48:46: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 5:6 multipler is 24
+19.01.2019 00:48:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4099.38
+19.01.2019 00:48:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:49:47: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 5:30 multipler is 24
+19.01.2019 00:49:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4159.48
+19.01.2019 00:49:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:50:47: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 5:54 multipler is 24
+19.01.2019 00:50:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4219.58
+19.01.2019 00:50:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:51:07: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:51:07: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:51:07: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:51:07: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:51:47: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:18 multipler is 4
+19.01.2019 00:51:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4279.72
+19.01.2019 00:51:47: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:51:57: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4289.74
+19.01.2019 00:51:57: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:52:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 4334.83
+19.01.2019 00:52:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:52:44: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:52:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:52:48: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:52:50: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 4342.95
+19.01.2019 00:52:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:23 multipler is 4
+19.01.2019 00:52:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4347.97
+19.01.2019 00:52:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:53:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:27 multipler is 4
+19.01.2019 00:53:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4408.15
+19.01.2019 00:53:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:54:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:31 multipler is 4
+19.01.2019 00:54:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4468.32
+19.01.2019 00:54:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:55:56: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:35 multipler is 4
+19.01.2019 00:55:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4528.41
+19.01.2019 00:55:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:56:11: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 00:56:11: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:56:11: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 00:56:11: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:56:56: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:39 multipler is 4
+19.01.2019 00:56:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4588.52
+19.01.2019 00:56:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:57:01: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4593.54
+19.01.2019 00:57:01: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 00:57:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 4643.65
+19.01.2019 00:57:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 00:57:53: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 00:57:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 00:57:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 00:57:59: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 4651.77
+19.01.2019 00:58:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:43 multipler is 4
+19.01.2019 00:58:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4656.8
+19.01.2019 00:58:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 00:59:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:47 multipler is 4
+19.01.2019 00:59:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4716.93
+19.01.2019 00:59:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:00:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:51 multipler is 4
+19.01.2019 01:00:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4777.09
+19.01.2019 01:00:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:01:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:55 multipler is 4
+19.01.2019 01:01:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4837.16
+19.01.2019 01:01:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:01:14: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:01:14: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:01:14: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:01:14: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:02:04: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 6:59 multipler is 4
+19.01.2019 01:02:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4897.33
+19.01.2019 01:02:04: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:02:04: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4897.33
+19.01.2019 01:02:04: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:03:00: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 4952.48
+19.01.2019 01:03:00: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:03:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:03:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:03:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:03:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 4960.61
+19.01.2019 01:03:13: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:4 multipler is 4
+19.01.2019 01:03:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4965.64
+19.01.2019 01:03:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:04:13: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:8 multipler is 4
+19.01.2019 01:04:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5025.77
+19.01.2019 01:04:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:05:13: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:12 multipler is 4
+19.01.2019 01:05:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5085.82
+19.01.2019 01:05:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:06:13: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:16 multipler is 4
+19.01.2019 01:06:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5145.97
+19.01.2019 01:06:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:06:18: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:06:18: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:06:18: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:06:18: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:07:08: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5201.09
+19.01.2019 01:07:08: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:07:13: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:20 multipler is 4
+19.01.2019 01:07:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5206.13
+19.01.2019 01:07:13: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:08:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 5261.23
+19.01.2019 01:08:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:08:11: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:08:13: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:08:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:08:17: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 5269.38
+19.01.2019 01:08:22: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:24 multipler is 4
+19.01.2019 01:08:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5274.4
+19.01.2019 01:08:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:09:22: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:28 multipler is 4
+19.01.2019 01:09:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5334.51
+19.01.2019 01:09:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:10:22: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:32 multipler is 4
+19.01.2019 01:10:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5394.6
+19.01.2019 01:10:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:36 multipler is 4
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5454.74
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:11:22: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:12:12: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5504.87
+19.01.2019 01:12:12: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:12:22: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:40 multipler is 4
+19.01.2019 01:12:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5514.88
+19.01.2019 01:12:22: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:13:18: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 5570.01
+19.01.2019 01:13:18: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:13:19: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:13:22: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:13:23: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:13:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 5578.13
+19.01.2019 01:13:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:45 multipler is 4
+19.01.2019 01:13:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5583.17
+19.01.2019 01:13:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:14:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:49 multipler is 4
+19.01.2019 01:14:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5643.33
+19.01.2019 01:14:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:15:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:53 multipler is 4
+19.01.2019 01:15:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5703.45
+19.01.2019 01:15:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:16:26: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:16:26: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:16:26: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:16:26: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:16:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 7:57 multipler is 4
+19.01.2019 01:16:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5763.6
+19.01.2019 01:16:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:17:16: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5808.75
+19.01.2019 01:17:16: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:17:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:1 multipler is 4
+19.01.2019 01:17:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5823.79
+19.01.2019 01:17:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:18:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 5878.93
+19.01.2019 01:18:27: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:18:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:18:31: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:18:33: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:18:34: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 5887.05
+19.01.2019 01:18:39: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:6 multipler is 4
+19.01.2019 01:18:39: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5892.08
+19.01.2019 01:18:39: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:19:40: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:10 multipler is 4
+19.01.2019 01:19:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 5952.2
+19.01.2019 01:19:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:20:40: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:14 multipler is 4
+19.01.2019 01:20:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6012.29
+19.01.2019 01:20:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:21:30: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:21:30: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:21:30: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:21:30: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:21:40: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:18 multipler is 4
+19.01.2019 01:21:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6072.45
+19.01.2019 01:21:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:22:20: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6112.54
+19.01.2019 01:22:20: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:22:40: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:22 multipler is 4
+19.01.2019 01:22:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6132.65
+19.01.2019 01:22:40: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:23:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 6187.76
+19.01.2019 01:23:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:23:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:23:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:23:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:23:43: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 6195.89
+19.01.2019 01:23:48: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:26 multipler is 4
+19.01.2019 01:23:48: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6200.92
+19.01.2019 01:23:48: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:24:49: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:30 multipler is 4
+19.01.2019 01:24:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6261.08
+19.01.2019 01:24:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:25:49: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:34 multipler is 4
+19.01.2019 01:25:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6321.16
+19.01.2019 01:25:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:26:34: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:26:34: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:26:34: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:26:34: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:26:49: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:38 multipler is 4
+19.01.2019 01:26:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6381.3
+19.01.2019 01:26:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:27:24: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6416.39
+19.01.2019 01:27:24: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:27:49: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:42 multipler is 4
+19.01.2019 01:27:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6441.45
+19.01.2019 01:27:49: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:28:44: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 6496.59
+19.01.2019 01:28:44: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:28:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:28:48: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:28:50: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:28:52: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 6504.72
+19.01.2019 01:28:57: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:47 multipler is 4
+19.01.2019 01:28:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6509.76
+19.01.2019 01:28:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:29:57: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:51 multipler is 4
+19.01.2019 01:29:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6569.89
+19.01.2019 01:29:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:30:57: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:55 multipler is 4
+19.01.2019 01:30:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6629.98
+19.01.2019 01:30:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:31:38: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:31:38: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:31:38: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:31:38: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:31:58: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 8:59 multipler is 4
+19.01.2019 01:31:58: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6690.13
+19.01.2019 01:31:58: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:32:28: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6720.2
+19.01.2019 01:32:28: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:32:58: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:3 multipler is 4
+19.01.2019 01:32:58: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6750.29
+19.01.2019 01:32:58: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:33:53: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 6805.41
+19.01.2019 01:33:53: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:33:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:33:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:33:59: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:34:01: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 6813.54
+19.01.2019 01:34:06: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:7 multipler is 4
+19.01.2019 01:34:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6818.57
+19.01.2019 01:34:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:35:06: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:11 multipler is 4
+19.01.2019 01:35:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6878.67
+19.01.2019 01:35:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:36:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:15 multipler is 4
+19.01.2019 01:36:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6938.84
+19.01.2019 01:36:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:36:42: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:36:42: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:36:42: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:36:42: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:37:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:19 multipler is 4
+19.01.2019 01:37:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6999
+19.01.2019 01:37:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:37:32: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7024.06
+19.01.2019 01:37:32: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:38:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:23 multipler is 4
+19.01.2019 01:38:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7059.16
+19.01.2019 01:38:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:39:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 7114.26
+19.01.2019 01:39:02: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:39:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:39:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:39:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:39:10: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 7122.4
+19.01.2019 01:39:15: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:28 multipler is 4
+19.01.2019 01:39:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7127.45
+19.01.2019 01:39:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:40:15: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:32 multipler is 4
+19.01.2019 01:40:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7187.54
+19.01.2019 01:40:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:41:16: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:36 multipler is 4
+19.01.2019 01:41:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7247.71
+19.01.2019 01:41:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:41:46: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:41:46: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:41:46: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:41:46: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:42:16: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:40 multipler is 4
+19.01.2019 01:42:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7307.85
+19.01.2019 01:42:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:42:36: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7327.88
+19.01.2019 01:42:36: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:43:16: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:44 multipler is 4
+19.01.2019 01:43:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7367.98
+19.01.2019 01:43:16: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:44:11: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 7422.96
+19.01.2019 01:44:11: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:44:13: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:44:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:44:17: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:44:19: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 7431.1
+19.01.2019 01:44:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:48 multipler is 4
+19.01.2019 01:44:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7436.14
+19.01.2019 01:44:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:45:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:52 multipler is 4
+19.01.2019 01:45:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7496.18
+19.01.2019 01:45:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:46:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 9:56 multipler is 4
+19.01.2019 01:46:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7556.3
+19.01.2019 01:46:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:46:49: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:46:49: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:46:49: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:46:49: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:47:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:1 multipler is 4
+19.01.2019 01:47:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7616.42
+19.01.2019 01:47:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:47:39: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7631.46
+19.01.2019 01:47:39: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:48:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:5 multipler is 4
+19.01.2019 01:48:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7676.54
+19.01.2019 01:48:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:49:20: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 7731.65
+19.01.2019 01:49:20: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:49:22: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:49:24: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:49:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:49:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 7739.79
+19.01.2019 01:49:33: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:9 multipler is 4
+19.01.2019 01:49:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7744.83
+19.01.2019 01:49:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:50:33: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:13 multipler is 4
+19.01.2019 01:50:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7804.9
+19.01.2019 01:50:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:51:33: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:17 multipler is 4
+19.01.2019 01:51:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7865.02
+19.01.2019 01:51:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:51:53: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:51:53: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:51:53: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:51:53: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:52:33: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:21 multipler is 4
+19.01.2019 01:52:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7925.16
+19.01.2019 01:52:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:52:43: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7935.18
+19.01.2019 01:52:43: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:53:33: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:25 multipler is 4
+19.01.2019 01:53:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7985.28
+19.01.2019 01:53:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:54:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 8040.41
+19.01.2019 01:54:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:54:31: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:54:32: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:54:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:54:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 8048.55
+19.01.2019 01:54:42: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:30 multipler is 4
+19.01.2019 01:54:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8053.59
+19.01.2019 01:54:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:55:42: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:34 multipler is 4
+19.01.2019 01:55:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8113.67
+19.01.2019 01:55:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:56:42: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:38 multipler is 4
+19.01.2019 01:56:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8173.83
+19.01.2019 01:56:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:56:57: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 01:56:57: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:56:57: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 01:56:57: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:57:42: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:42 multipler is 4
+19.01.2019 01:57:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8233.94
+19.01.2019 01:57:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:57:47: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8238.94
+19.01.2019 01:57:47: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 01:58:42: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:46 multipler is 4
+19.01.2019 01:58:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8294.05
+19.01.2019 01:58:42: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 01:59:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 8349.18
+19.01.2019 01:59:37: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 01:59:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 01:59:41: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 01:59:43: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 01:59:45: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 8357.29
+19.01.2019 01:59:50: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:50 multipler is 4
+19.01.2019 01:59:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8362.33
+19.01.2019 01:59:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:00:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:54 multipler is 4
+19.01.2019 02:00:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8422.42
+19.01.2019 02:00:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:01:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 10:58 multipler is 4
+19.01.2019 02:01:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8482.56
+19.01.2019 02:01:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:02:01: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:02:01: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:02:01: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:02:01: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:02:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:2 multipler is 4
+19.01.2019 02:02:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8542.73
+19.01.2019 02:02:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8542.73
+19.01.2019 02:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:03:51: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:6 multipler is 4
+19.01.2019 02:03:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8602.97
+19.01.2019 02:03:51: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:04:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 8658.08
+19.01.2019 02:04:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:04:48: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:04:50: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:04:52: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:04:54: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 8666.22
+19.01.2019 02:04:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:11 multipler is 4
+19.01.2019 02:04:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8671.25
+19.01.2019 02:04:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:05:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:15 multipler is 4
+19.01.2019 02:05:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8731.3
+19.01.2019 02:05:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:07:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:19 multipler is 4
+19.01.2019 02:07:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8791.41
+19.01.2019 02:07:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:07:05: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:07:05: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:07:05: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:07:05: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:07:55: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8846.57
+19.01.2019 02:07:55: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:08:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:23 multipler is 4
+19.01.2019 02:08:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8851.59
+19.01.2019 02:08:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:09:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:27 multipler is 4
+19.01.2019 02:09:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8911.74
+19.01.2019 02:09:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:09:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 8966.83
+19.01.2019 02:09:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:09:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:09:59: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:10:01: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:10:03: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 8974.96
+19.01.2019 02:10:08: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:31 multipler is 4
+19.01.2019 02:10:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 8979.96
+19.01.2019 02:10:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:11:08: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:35 multipler is 4
+19.01.2019 02:11:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9040.08
+19.01.2019 02:11:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:39 multipler is 4
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9100.21
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:12:08: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:12:59: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9150.36
+19.01.2019 02:12:59: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:13:09: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:43 multipler is 4
+19.01.2019 02:13:09: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9160.41
+19.01.2019 02:13:09: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:14:09: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:47 multipler is 4
+19.01.2019 02:14:09: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9220.54
+19.01.2019 02:14:09: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:15:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 9275.64
+19.01.2019 02:15:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:15:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:15:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:15:10: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:15:12: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 9283.76
+19.01.2019 02:15:17: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:52 multipler is 4
+19.01.2019 02:15:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9288.78
+19.01.2019 02:15:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:16:17: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:56 multipler is 4
+19.01.2019 02:16:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9348.91
+19.01.2019 02:16:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:17:12: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:17:12: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:17:12: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:17:12: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:17:17: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:0 multipler is 4
+19.01.2019 02:17:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9409.04
+19.01.2019 02:17:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:18:02: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9454.11
+19.01.2019 02:18:02: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:18:17: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:4 multipler is 4
+19.01.2019 02:18:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9469.16
+19.01.2019 02:18:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:19:17: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:8 multipler is 4
+19.01.2019 02:19:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9529.3
+19.01.2019 02:19:17: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:20:13: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 9584.35
+19.01.2019 02:20:13: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:20:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:20:17: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:20:19: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:20:21: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 9592.46
+19.01.2019 02:20:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:13 multipler is 4
+19.01.2019 02:20:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9597.49
+19.01.2019 02:20:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:21:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:17 multipler is 4
+19.01.2019 02:21:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9657.63
+19.01.2019 02:21:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:22:16: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:22:16: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:22:16: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:22:16: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:22:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:21 multipler is 4
+19.01.2019 02:22:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9717.75
+19.01.2019 02:22:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:23:06: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9757.86
+19.01.2019 02:23:06: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:23:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:25 multipler is 4
+19.01.2019 02:23:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9777.95
+19.01.2019 02:23:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:24:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:29 multipler is 4
+19.01.2019 02:24:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9842.99
+19.01.2019 02:24:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:25:21: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 9893.04
+19.01.2019 02:25:21: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:25:24: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:25:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:25:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:25:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 9901.18
+19.01.2019 02:25:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:33 multipler is 4
+19.01.2019 02:25:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9906.22
+19.01.2019 02:25:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:26:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:37 multipler is 4
+19.01.2019 02:26:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 9966.4
+19.01.2019 02:26:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:27:20: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:27:20: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:27:20: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:27:20: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:27:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:41 multipler is 4
+19.01.2019 02:27:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10026.5
+19.01.2019 02:27:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:28:10: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10061.6
+19.01.2019 02:28:10: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:28:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:45 multipler is 4
+19.01.2019 02:28:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10086.7
+19.01.2019 02:28:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:29:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:49 multipler is 4
+19.01.2019 02:29:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10146.8
+19.01.2019 02:29:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:30:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 10201.9
+19.01.2019 02:30:31: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:30:32: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:30:35: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:30:36: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:30:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 10210.1
+19.01.2019 02:30:44: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:54 multipler is 4
+19.01.2019 02:30:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10215.1
+19.01.2019 02:30:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:31:44: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:58 multipler is 4
+19.01.2019 02:31:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10275.2
+19.01.2019 02:31:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:32:24: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:32:24: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:32:24: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:32:24: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:32:44: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:2 multipler is 4
+19.01.2019 02:32:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10335.4
+19.01.2019 02:32:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:33:14: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10365.4
+19.01.2019 02:33:14: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:33:44: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:6 multipler is 4
+19.01.2019 02:33:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10395.5
+19.01.2019 02:33:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:34:44: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:10 multipler is 4
+19.01.2019 02:34:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10455.7
+19.01.2019 02:34:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:35:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 10510.7
+19.01.2019 02:35:39: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 3-6:1 is active
+19.01.2019 02:35:41: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+19.01.2019 02:35:43: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+19.01.2019 02:35:45: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+19.01.2019 02:35:47: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 10518.9
+19.01.2019 02:35:52: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:14 multipler is 4
+19.01.2019 02:35:52: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10523.9
+19.01.2019 02:35:52: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:36:53: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:18 multipler is 4
+19.01.2019 02:36:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10584
+19.01.2019 02:36:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:37:28: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+19.01.2019 02:37:28: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:37:28: V70 (14-11-2018) [OCCUPATION:Sky] Started
+19.01.2019 02:37:28: V70 (14-11-2018) [OCCUPATION:Sky]:: 104 active AI, so not spawning AI this time
+19.01.2019 02:37:53: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:22 multipler is 4
+19.01.2019 02:37:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 10644.2
+19.01.2019 02:37:53: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Held off spawning random AI, not enough players online
+19.01.2019 02:38:18: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10669.3
+19.01.2019 02:38:18: V70 (14-11-2018) [OCCUPATION:Places]:: 104 active AI, so not spawning AI this time
