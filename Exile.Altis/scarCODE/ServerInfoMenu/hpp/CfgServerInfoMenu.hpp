@@ -2,12 +2,12 @@ class CfgServerInfoMenu
 {
    addAction = 1; // Enable/disable action menu item | use 0 to disable | default: 1 (enabled)
    antiHACK = "infiSTAR + BattlEye";
-   hostedBy = "GamerClanName";
+   hostedBy = "DM";
    ipPort = "000.123.456.789:2302";
    openKey = "User7"; // https://community.bistudio.com/wiki/inputAction/actions
    openAtLogin = no;
    restart = 3; // Amount of hours before server automatically restarts
-   serverName = "Name of this server";
+   serverName = "Drunken Mongs Exile";
    class menuItems
    {
       // title AND content accept formatted text ( since update Oct5.2016 )
@@ -16,7 +16,7 @@ class CfgServerInfoMenu
          menuName = "General";
          title = "<t color='#ffffff'>GENERAL INFORMATION</t>";
          content[] = {
-            "This is some placeholder text"
+            "Welcome to Drunken Mongs!<br /> Join our discord @ www.drunkenmongs.com"
          };
       };
       class second
@@ -32,13 +32,13 @@ class CfgServerInfoMenu
       {
          menuName = "Crafting";
          title = "CRAFTING GUIDE";
-         content[] = {""};
+         content[] = {"Just your standard Crafting! Nothing special yet :("};
       };
       class fourth
       {
          menuName = "Admins";
          title = "ADMINISTRATORS";
-         content[] = {""};
+         content[] = {"Vipes, Vaas, Madlax, Infamous, Rider, Koneg, Xverion"};
       };
       class fifth
       {
@@ -51,9 +51,9 @@ class CfgServerInfoMenu
          menuName = "Communication";
          title = "VOICE SERVER AND WEBSITE";
          content[] = {
-            "<t size='1.25'>TeamSpeak:</t> ts.website.com",
+            "<t size='1.25'>TeamSpeak:</t> 37.187.24.229",
             "<br />",
-            "<t size='1.25'>Website:</t> https://website.com"
+            "<t size='1.25'>Discord:</t> www.drunkenmongs.com"
          };
       };
       class seventh
@@ -61,9 +61,9 @@ class CfgServerInfoMenu
          menuName = "Credits";
          title = "CREDITS WHERE CREDITS DUE";
          content[] = {
-            "<t size='1.25'>IT07:</t> coder/creator of this menu",
+            "<t size='1.25'>IT07:</t> Server created and maintained by",
             "<br />",
-            "<t size='1.25'>Name:</t> blablabla"
+            "<t size='1.25'>Name:</t> Vipes"
          };
       };
    };
