@@ -75,7 +75,11 @@ showHUD[] =
     true   // Vehicle Panel (Required for GPS)
 };
 
+
+// Custom / Community Made Dialogs
 #include "config.cpp"
 #include "xs\spawn\Dialog\xsSpawnDefines.hpp"
 #include "xs\spawn\Dialog\xsSpawnDiaglog.hpp"
 #include "XM8_apps\XM8_apps_sliders.hpp"
+#include "scarCODE\ServerInfoMenu\hpp\CfgServerInfoMenu.hpp"
+#include "scarCODE\ServerInfoMenu\hpp\RscDisplayServerInfoMenu.hpp"
