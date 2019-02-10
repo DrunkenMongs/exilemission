@@ -3416,9 +3416,15 @@ class CfgExileArsenal
 
 class CfgExileCustomCode 
 {
+	// ALL ENABLED THINGS TO BE UNDER WELCOME MESSAGE OR WHATEVER IS NEWEST! CHECK GIT CODE
+
 	// Welcome Message
 	
 	ExileClient_gui_toaster_addToast = "custom\MWT\ExileClient_gui_toaster_addToast.sqf";
+
+
+	// Override (enables Enhanced Movement)
+	ExileClient_system_thread_initialize = "Overrides\ExileClient_system_thread_initialize.sqf";
 	
 	// Spawn Menu
 	
