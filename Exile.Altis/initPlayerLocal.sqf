@@ -518,3 +518,19 @@ call ExileClient_object_trader_create;
 call compile preprocessfilelinenumbers "zcp.sqf"; // capture points
 [] execVM "custom\MWT\monkeyswelcometoasts.sqf";
 [] execVM "XM8_apps\scripts\XM8_apps_init.sqf"; // xm8 improved
+[] execVM "custom\actions\fnc_showActions.sqf"; // (un)lock vehcile from inside
+[] execVM "statusIcons\statusIcons.sqf"; // Dynamic Status Icons
+
+///////////////////////////////////////////////////////////////////////////////
+// Watermark
+///////////////////////////////////////////////////////////////////////////////
+_pic = "custom\drunkencustom\media\drunkenlogo.png";
+[
+    '<img align=''left'' size=''1.0'' shadow=''1'' image='+(str(_pic))+' />',
+    safeZoneX+0.027,
+    safeZoneY+safeZoneH-0.1,
+    99999,
+    0,
+    0,
+    3090
+] spawn bis_fnc_dynamicText;

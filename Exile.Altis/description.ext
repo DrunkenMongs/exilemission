@@ -75,6 +75,17 @@ showHUD[] =
     true   // Vehicle Panel (Required for GPS)
 };
 
+// May be subject to remove if testing fails
+
+class CfgFunctions
+{
+	#include "Custom\CfgFunctions.cpp"
+};
+
+// Dynamic Icons
+class RscTitles {
+    #include "statusIcons\StatusIcons.hpp"
+};
 
 // Custom / Community Made Dialogs
 #include "config.cpp"

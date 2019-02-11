@@ -1835,6 +1835,12 @@ class CfgExileCustomCode
 	// Override (enables Enhanced Movement)
 	ExileClient_system_thread_initialize = "Overrides\ExileClient_system_thread_initialize.sqf";
 
+	// Lock Unlock / Custom Keys
+	ExileClient_gui_hud_event_onKeyUp = "Custom\overwrites\ExileClient_gui_hud_event_onKeyUp.sqf";
+	
+	// Dynamic Icons
+	ExileClient_gui_hud_event_onKeyDown = "overrides\ExileClient_gui_hud_event_onKeyDown.sqf";
+
 	// Spawn Menu
 	
 	//ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick = "xs\spawn\Overwrites\ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick.sqf";
