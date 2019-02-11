@@ -52,6 +52,8 @@ MY_LOG_FOLDER = "infi Logs";	/* MY_LOG_FOLDER = "infiSTAR Logs"; - would create 
 	
 	example names: "[Admin] PlayerName" or "PlayerName [Admin]"
 	note: this is case sensitive as well, meaning "PlayerName [admin]" would not work as we set our example to "[Admin]"
+
+	Note: this is disabled because it's annoying as fuck
 */
 class adminNameTags {
 	useAdminNameTag = "false";
@@ -102,7 +104,7 @@ startAsNormal[] =
 	""
 };
 
-/* Level 5 Menu*/
+/* Do not edit this line! */
 hiddenSuperAdmin[] =
 {
 	"76561198065853636","76561198030433683"
