@@ -428,7 +428,7 @@
 	class Exile_Item_MetalPole						{ quality = 1; price = 800; };
 	class Exile_Item_MetalScrews					{ quality = 1; price = 100; };
 	class Exile_Item_Rope							{ quality = 1; price = 20; };
-	class Exile_Item_SafeKit						{ quality = 4; price = 25000; };
+	class Exile_Item_SafeKit						{ quality = 4; price = 700000; };
 	//class Exile_Item_BaseCameraKit				{ quality = 2; price = 5000; };
 	//class Exile_Item_CarWheel						{ quality = 1; price = 1000; };
 	//class Exile_Item_Cement						{ quality = 1; price = 20; };
@@ -534,7 +534,7 @@
 	class Exile_Item_Pliers							{ quality = 2; price = 350; };
 	class Exile_Melee_Axe							{ quality = 2; price = 100; };
 	class Exile_Melee_SledgeHammmer					{ quality = 3; price = 500; };
-	class Exile_item_RubberDuck                		{ quality = 1; price = 350000; sellPrice = 350000; }; // Added as trophy item, easy money ;)
+	class Exile_item_RubberDuck                		{ quality = 1; price = 350000; }; // Added as trophy item, easy money ;)
 	//class Exile_Item_CordlessScrewdriver			{ quality = 1; price = 750; };
 	//class Exile_Item_FireExtinguisher				{ quality = 1; price = 650; };
 	//class Exile_Item_Hammer						{ quality = 1; price = 600; };
