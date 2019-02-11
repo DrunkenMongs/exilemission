@@ -4,6 +4,9 @@
    Description:
    does whatever is needed to initialize the ServerInfoMenu
 */
+/*
+
+Disabled becasue it's really fucking annoying xD
 
 if hasInterface then
    {
@@ -37,3 +40,4 @@ if hasInterface then
                   };
          };
    };
+*/
