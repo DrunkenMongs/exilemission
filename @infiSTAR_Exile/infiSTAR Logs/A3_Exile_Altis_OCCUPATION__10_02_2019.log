@@ -1,0 +1,693 @@
+﻿10.02.2019 22:46:53: V70 (14-11-2018) =============================================================================================================
+10.02.2019 22:46:53: V70 (14-11-2018) [OCCUPATION MOD]:: Occupation V70 (14-11-2018) Initialised at 150.197
+10.02.2019 22:46:53: V70 (14-11-2018) =============================================================================================================
+10.02.2019 22:46:53: V70 (14-11-2018) [OCCUPATION:Traders] starting @ 150.22
+10.02.2019 22:46:53: V70 (14-11-2018) [processReporter]:: Initialised at 150.22
+10.02.2019 22:46:53: V70 (14-11-2018) [OCCUPATION]:: Detected DMS version September 7, 2017
+10.02.2019 22:46:53: V70 (14-11-2018) [OCCUPATION]:: Occupation V70 (14-11-2018) Adding modules to Exile system thread manager at 150.241
+10.02.2019 22:47:38: V70 (14-11-2018) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+10.02.2019 22:47:38: V70 (14-11-2018) [OCCUPATION:LootCrates]:: worldname: Altis crates to spawn: 6
+10.02.2019 22:47:40: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_blk_F",[""],[["Exile_Item_PlasticBottleFreshWater",1],["30Rnd_65x39_caseless_green",2],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Bandit_2_F","V_BandollierB_oli","B_TacticalPack_ocamo"]
+10.02.2019 22:47:41: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_hex_F",[""],[["Exile_Item_Bandage",3],["30Rnd_65x39_caseless_green",3],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Para_1_F","V_BandollierB_oli",""]
+10.02.2019 22:47:41: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [20596.4,13779.1,0] with 2 guards
+10.02.2019 22:47:43: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MX_GL_khk_F",[""],[["Exile_Item_Cheathas",3],["Exile_Item_BBQSandwich",2],["30Rnd_65x39_caseless_mag",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Para_2_F","V_BandollierB_blk",""]
+10.02.2019 22:47:43: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [19957.3,9247.09,0] with 1 guards
+10.02.2019 22:47:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_khk_F",[""],[["Exile_Item_Noodles",3],["Exile_Item_Catfood",3],["Exile_Item_Bandage",3],["20Rnd_762x51_Mag",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Bandit_3_F","V_BandollierB_khk",""]
+10.02.2019 22:47:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_snd_F",[""],[["Exile_Item_PlasticBottleFreshWater",1],["20Rnd_762x51_Mag",2],["16Rnd_9x21_Mag",3]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Bandit_1_F","V_BandollierB_blk",""]
+10.02.2019 22:47:44: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 3 at drop zone [22980.9,18486,0] with 2 guards
+10.02.2019 22:47:46: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_Cheathas",2],["Exile_Item_Noodles",2],["30Rnd_556x45_Stanag",2],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Camo_F","V_BandollierB_oli","B_TacticalPack_blk"]
+10.02.2019 22:47:46: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 4 at drop zone [18475.1,7114.49,0] with 1 guards
+10.02.2019 22:47:47: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_blk_F",[""],[["Exile_Item_InstaDoc",2],["30Rnd_580x42_Mag_F",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_B_CTRG_Soldier_urb_3_F","V_BandollierB_cbr","B_TacticalPack_ocamo"]
+10.02.2019 22:47:47: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_blk_F",[""],[["Exile_Item_Cheathas",2],["30Rnd_556x45_Stanag",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_B_CTRG_Soldier_urb_1_F","V_BandollierB_khk",""]
+10.02.2019 22:47:47: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 5 at drop zone [11957.9,11984.1,0] with 2 guards
+10.02.2019 22:47:50: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_DuctTape",1],["30Rnd_762x39_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_4_F","V_BandollierB_oli","B_Kitbag_mcamo"]
+10.02.2019 22:47:50: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_ghex_F",[""],[["Exile_Item_Noodles",2],["Exile_Item_InstaDoc",2],["30Rnd_65x39_caseless_green",2],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Para_5_F","V_BandollierB_cbr","B_Kitbag_mcamo"]
+10.02.2019 22:47:50: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 6 at drop zone [5314.07,10415.5,0] with 2 guards
+10.02.2019 22:48:05: V70 (14-11-2018) [OCCUPATION:HeliCrashes]:: Initialised at 221.542
+10.02.2019 22:48:05: V70 (14-11-2018) [OCCUPATION:HeliCrashes]::  worldname: Altis crashes to spawn: 5
+10.02.2019 22:48:06: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 1 : Location [11507.2,22335.2,0]
+10.02.2019 22:48:06: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MXM_khk_F",[""],[["Exile_Item_Bandage",2],["Exile_Item_Catfood",2],["30Rnd_65x39_caseless_mag",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_4_F","V_BandollierB_blk","B_Kitbag_mcamo"]
+10.02.2019 22:48:06: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MXM_khk_F",[""],[["Exile_Item_Energydrink",3],["Exile_Item_EMRE",1],["Exile_Item_Catfood",3],["30Rnd_65x39_caseless_mag",3],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Bandit_2_F","V_BandollierB_blk","B_OutdoorPack_blk"]
+10.02.2019 22:48:06: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_BBQSandwich",2],["Exile_Item_Cheathas",3],["Exile_Item_Cheathas",1],["30Rnd_556x45_Stanag",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_blk","B_Kitbag_cbr"]
+10.02.2019 22:48:06: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [11507.2,22335.2,0] with 3 guards
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 2 : Location [19776,6775.74,0]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MXC_khk_F",[""],[["Exile_Item_DuctTape",1],["Exile_Item_EMRE",3],["30Rnd_65x39_caseless_mag",3],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_cbr","B_TacticalPack_rgr"]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_snd_F",[""],[["Exile_Item_Catfood",1],["Exile_Item_Vishpirin",2],["Exile_Item_DuctTape",2],["150Rnd_556x45_Drum_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_2_F","V_BandollierB_khk","B_HuntingBackpack"]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_BBQSandwich",2],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_2_F","V_BandollierB_blk","B_TacticalPack_mcamo"]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_BBQSandwich",2],["Exile_Item_InstaDoc",1],["Exile_Item_Vishpirin",2],["30Rnd_556x45_Stanag",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_1_F","V_BandollierB_oli","B_TacticalPack_mcamo"]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MX_khk_F",[""],[["Exile_Item_Bandage",1],["Exile_Item_EMRE",2],["30Rnd_65x39_caseless_mag",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Bandit_4_F","V_BandollierB_cbr","B_TacticalPack_oli"]
+10.02.2019 22:48:08: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [19776,6775.74,0] with 5 guards
+10.02.2019 22:48:09: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 3 : Location [25534.8,22370.4,0]
+10.02.2019 22:48:09: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_snd_F",[""],[["Exile_Item_PlasticBottleFreshWater",2],["Exile_Item_DuctTape",2],["150Rnd_556x45_Drum_Mag_F",3],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Para_1_F","V_BandollierB_blk","B_OutdoorPack_tan"]
+10.02.2019 22:48:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_khk_F",[""],[["Exile_Item_Energydrink",3],["150Rnd_556x45_Drum_Mag_F",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_2_F","V_BandollierB_oli",""]
+10.02.2019 22:48:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_Catfood",3],["Exile_Item_BBQSandwich",3],["Exile_Item_InstaDoc",1],["30Rnd_556x45_Stanag",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_B_CTRG_Soldier_urb_2_F","V_BandollierB_blk","B_TacticalPack_blk"]
+10.02.2019 22:48:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_Catfood",1],["Exile_Item_Vishpirin",3],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Bandit_2_F","V_BandollierB_blk","B_TacticalPack_blk"]
+10.02.2019 22:48:10: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 3 at [25534.8,22370.4,0] with 4 guards
+10.02.2019 22:48:11: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:33 multipler is 4
+10.02.2019 22:48:11: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 4 : Location [10128,13717.4,0]
+10.02.2019 22:48:11: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_khk_F",[""],[["Exile_Item_Bandage",2],["Exile_Item_PlasticBottleFreshWater",2],["20Rnd_762x51_Mag",3],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Para_1_F","V_BandollierB_cbr","B_Kitbag_mcamo"]
+10.02.2019 22:48:11: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MX_SW_khk_F",[""],[["Exile_Item_InstaDoc",3],["Exile_Item_Energydrink",2],["100Rnd_65x39_caseless_mag",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Bandit_1_F","V_BandollierB_oli","B_TacticalPack_ocamo"]
+10.02.2019 22:48:11: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 4 at [10128,13717.4,0] with 2 guards
+10.02.2019 22:48:13: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 5 : Location [27562.2,21116.8,0]
+10.02.2019 22:48:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_khk_F",[""],[["Exile_Item_DuctTape",3],["Exile_Item_Vishpirin",2],["30Rnd_556x45_Stanag",2],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Para_4_F","V_BandollierB_blk","B_Kitbag_cbr"]
+10.02.2019 22:48:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_blk_F",[""],[["Exile_Item_BBQSandwich",2],["Exile_Item_DuctTape",2],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_1_F","V_BandollierB_cbr","B_TacticalPack_rgr"]
+10.02.2019 22:48:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_Cheathas",3],["Exile_Item_EMRE",3],["Exile_Item_Bandage",1],["30Rnd_556x45_Stanag",3],["11Rnd_45ACP_Mag",3]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_1_F","V_BandollierB_cbr","B_OutdoorPack_blk"]
+10.02.2019 22:48:13: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 5 at [27562.2,21116.8,0] with 3 guards
+10.02.2019 22:48:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 245.154
+10.02.2019 22:48:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn] Waiting until the server has been up at least 5 minutes (it has currently been up for 245.154 seconds)
+10.02.2019 22:49:13: V70 (14-11-2018) [OCCUPATION:transport]:: Starting @ 289.502
+10.02.2019 22:49:13: V70 (14-11-2018) [OCCUPATION:transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [15360,15360,200]
+10.02.2019 22:49:13: V70 (14-11-2018) [OCCUPATION:transport]:: Found 3 markers to use as pickup points @ 289.88
+10.02.2019 22:49:13: V70 (14-11-2018) [OCCUPATION:transport]:: textures for vehicle are: ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+10.02.2019 22:49:14: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:38 multipler is 4
+10.02.2019 22:54:59: V70 (14-11-2018) =============================================================================================================
+10.02.2019 22:54:59: V70 (14-11-2018) [OCCUPATION MOD]:: Occupation V70 (14-11-2018) Initialised at 150.359
+10.02.2019 22:54:59: V70 (14-11-2018) =============================================================================================================
+10.02.2019 22:54:59: V70 (14-11-2018) [OCCUPATION:Traders] starting @ 150.382
+10.02.2019 22:54:59: V70 (14-11-2018) [processReporter]:: Initialised at 150.382
+10.02.2019 22:54:59: V70 (14-11-2018) [OCCUPATION]:: Detected DMS version September 7, 2017
+10.02.2019 22:54:59: V70 (14-11-2018) [OCCUPATION]:: Occupation V70 (14-11-2018) Adding modules to Exile system thread manager at 150.403
+10.02.2019 22:55:44: V70 (14-11-2018) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+10.02.2019 22:55:44: V70 (14-11-2018) [OCCUPATION:LootCrates]:: worldname: Altis crates to spawn: 6
+10.02.2019 22:55:45: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_blk_F",[""],[["Exile_Item_Cheathas",2],["Exile_Item_Catfood",1],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_cbr","B_OutdoorPack_blu"]
+10.02.2019 22:55:45: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_blk_F",[""],[["Exile_Item_Energydrink",2],["Exile_Item_BBQSandwich",1],["30Rnd_65x39_caseless_green",2],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Para_2_F","V_BandollierB_blk",""]
+10.02.2019 22:55:46: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [22272.3,20737,0] with 2 guards
+10.02.2019 22:55:47: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_Noodles",2],["Exile_Item_Energydrink",1],["30Rnd_556x45_Stanag",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Para_3_F","V_BandollierB_oli",""]
+10.02.2019 22:55:47: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKS_F",[""],[["Exile_Item_EMRE",1],["Exile_Item_InstaDoc",2],["30Rnd_545x39_Mag_F",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_B_CTRG_Soldier_urb_1_F","V_BandollierB_cbr","B_TacticalPack_ocamo"]
+10.02.2019 22:55:47: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [4977.54,18711,0] with 2 guards
+10.02.2019 22:55:49: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AK12_F",[""],[["Exile_Item_Vishpirin",2],["Exile_Item_InstaDoc",2],["30Rnd_762x39_Mag_F",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_B_CTRG_Soldier_urb_3_F","V_BandollierB_cbr",""]
+10.02.2019 22:55:49: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_EMRE",1],["Exile_Item_Cheathas",1],["Exile_Item_Vishpirin",1],["30Rnd_556x45_Stanag",3],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_3_F","V_BandollierB_oli","B_TacticalPack_rgr"]
+10.02.2019 22:55:49: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 3 at drop zone [20015.2,8179.5,0] with 2 guards
+10.02.2019 22:55:50: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_GL_blk_F",[""],[["Exile_Item_Cheathas",2],["30Rnd_580x42_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Bandit_4_F","V_BandollierB_khk",""]
+10.02.2019 22:55:50: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 4 at drop zone [7197.17,14031,0] with 1 guards
+10.02.2019 22:55:52: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_blk_F",[""],[["Exile_Item_Cheathas",2],["Exile_Item_Energydrink",3],["20Rnd_762x51_Mag",2],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Bandit_2_F","V_BandollierB_cbr","B_TacticalPack_rgr"]
+10.02.2019 22:55:52: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_PlasticBottleFreshWater",1],["30Rnd_556x45_Stanag",2],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Bandit_5_F","V_BandollierB_oli","B_OutdoorPack_blk"]
+10.02.2019 22:55:52: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 5 at drop zone [11471.6,15049.2,0] with 2 guards
+10.02.2019 22:55:53: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_blk_F",[""],[["Exile_Item_Energydrink",1],["Exile_Item_DuctTape",2],["Exile_Item_Noodles",2],["30Rnd_580x42_Mag_F",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Para_5_F","V_BandollierB_khk","B_TacticalPack_mcamo"]
+10.02.2019 22:55:54: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_blk_F",[""],[["Exile_Item_InstaDoc",2],["Exile_Item_Noodles",2],["Exile_Item_Catfood",1],["30Rnd_556x45_Stanag",3],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_B_CTRG_Soldier_urb_2_F","V_BandollierB_blk","B_HuntingBackpack"]
+10.02.2019 22:55:54: V70 (14-11-2018) [OCCUPATION:LootCrates]::  Creating crate 6 at drop zone [3149.47,12969.1,0] with 2 guards
+10.02.2019 22:56:09: V70 (14-11-2018) [OCCUPATION:HeliCrashes]:: Initialised at 220.295
+10.02.2019 22:56:09: V70 (14-11-2018) [OCCUPATION:HeliCrashes]::  worldname: Altis crashes to spawn: 5
+10.02.2019 22:56:10: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 1 : Location [19689.2,5952.9,0]
+10.02.2019 22:56:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MXC_khk_F",[""],[["Exile_Item_EMRE",1],["30Rnd_65x39_caseless_mag",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Camo_F","V_BandollierB_oli","B_Kitbag_mcamo"]
+10.02.2019 22:56:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTARS_blk_F",[""],[["Exile_Item_Catfood",1],["100Rnd_580x42_Mag_F",2],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Bandit_1_F","V_BandollierB_blk","B_TacticalPack_oli"]
+10.02.2019 22:56:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MXM_khk_F",[""],[["Exile_Item_PlasticBottleFreshWater",3],["Exile_Item_DuctTape",3],["30Rnd_65x39_caseless_mag",3],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Bandit_1_F","V_BandollierB_khk","B_Kitbag_mcamo"]
+10.02.2019 22:56:10: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [19689.2,5952.9,0] with 3 guards
+10.02.2019 22:56:12: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 2 : Location [20179.1,12671.8,0]
+10.02.2019 22:56:12: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_blk_F",[""],[["Exile_Item_Noodles",2],["Exile_Item_Vishpirin",2],["150Rnd_556x45_Drum_Mag_F",3],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_1_F","V_BandollierB_cbr","B_Kitbag_mcamo"]
+10.02.2019 22:56:12: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_Bandage",1],["Exile_Item_Catfood",3],["30Rnd_762x39_Mag_F",3],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Bandit_3_F","V_BandollierB_cbr",""]
+10.02.2019 22:56:12: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [20179.1,12671.8,0] with 2 guards
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 3 : Location [19341.1,19153.3,0]
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTARS_blk_F",[""],[["Exile_Item_BBQSandwich",2],["100Rnd_580x42_Mag_F",3],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_1_F","V_BandollierB_khk",""]
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_blk_F",[""],[["Exile_Item_Noodles",1],["Exile_Item_Catfood",2],["20Rnd_762x51_Mag",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Camo_F","V_BandollierB_khk","B_Kitbag_mcamo"]
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_Catfood",3],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_5_F","V_BandollierB_blk","B_OutdoorPack_blu"]
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_snd_F",[""],[["Exile_Item_Energydrink",1],["Exile_Item_BBQSandwich",3],["30Rnd_556x45_Stanag",3],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Bandit_1_F","V_BandollierB_oli",""]
+10.02.2019 22:56:13: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_khk_F",[""],[["Exile_Item_DuctTape",3],["20Rnd_762x51_Mag",2],["11Rnd_45ACP_Mag",3]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_3_F","V_BandollierB_cbr","B_Kitbag_mcamo"]
+10.02.2019 22:56:14: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 3 at [19341.1,19153.3,0] with 5 guards
+10.02.2019 22:56:14: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:33 multipler is 4
+10.02.2019 22:56:15: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 4 : Location [11721.4,19465.2,0]
+10.02.2019 22:56:15: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_blk_F",[""],[["Exile_Item_Catfood",1],["Exile_Item_Noodles",2],["30Rnd_556x45_Stanag",3],["11Rnd_45ACP_Mag",3]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_oli","B_HuntingBackpack"]
+10.02.2019 22:56:15: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_blk_F",[""],[["Exile_Item_Energydrink",2],["Exile_Item_Bandage",1],["Exile_Item_Catfood",2],["20Rnd_762x51_Mag",3],["16Rnd_9x21_Mag",2]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Bandit_1_F","V_BandollierB_khk","B_TacticalPack_mcamo"]
+10.02.2019 22:56:15: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTARS_blk_F",[""],[["Exile_Item_Vishpirin",3],["Exile_Item_InstaDoc",1],["Exile_Item_Vishpirin",2],["100Rnd_580x42_Mag_F",2],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Camo_F","V_BandollierB_blk","B_TacticalPack_mcamo"]
+10.02.2019 22:56:15: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_hex_F",[""],[["Exile_Item_Cheathas",1],["Exile_Item_BBQSandwich",3],["30Rnd_65x39_caseless_green",3],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Bandit_2_F","V_BandollierB_cbr","B_HuntingBackpack"]
+10.02.2019 22:56:16: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 4 at [11721.4,19465.2,0] with 4 guards
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION:HeliCrashes] Crash 5 : Location [20540.5,14546.5,0]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AK12_F",[""],[["Exile_Item_EMRE",1],["Exile_Item_Catfood",2],["Exile_Item_DuctTape",1],["30Rnd_762x39_Mag_F",2],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_blk","B_TacticalPack_ocamo"]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_blk_F",[""],[["Exile_Item_Vishpirin",3],["30Rnd_556x45_Stanag",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Para_1_F","V_BandollierB_blk",""]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_Vishpirin",2],["Exile_Item_BBQSandwich",2],["30Rnd_762x39_Mag_F",2],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Para_5_F","V_BandollierB_cbr","B_OutdoorPack_blk"]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AK12_F",[""],[["Exile_Item_PlasticBottleFreshWater",2],["30Rnd_762x39_Mag_F",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Camo_F","V_BandollierB_khk","B_TacticalPack_blk"]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MX_khk_F",[""],[["Exile_Item_Vishpirin",2],["30Rnd_65x39_caseless_mag",3],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_B_CTRG_Soldier_urb_2_F","V_BandollierB_blk","B_TacticalPack_ocamo"]
+10.02.2019 22:56:17: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AK12_GL_F",[""],[["Exile_Item_Cheathas",1],["Exile_Item_PlasticBottleFreshWater",3],["Exile_Item_Cheathas",2],["30Rnd_762x39_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive_hs","U_I_C_Soldier_Bandit_5_F","V_BandollierB_oli","B_Kitbag_mcamo"]
+10.02.2019 22:56:18: V70 (14-11-2018) [OCCUPATION:HeliCrash]::  Creating HeliCrash 5 at [20540.5,14546.5,0] with 6 guards
+10.02.2019 22:56:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 244.585
+10.02.2019 22:56:33: V70 (14-11-2018) [OCCUPATION:RandomSpawn] Waiting until the server has been up at least 5 minutes (it has currently been up for 244.585 seconds)
+10.02.2019 22:57:18: V70 (14-11-2018) [OCCUPATION:transport]:: Starting @ 288.882
+10.02.2019 22:57:18: V70 (14-11-2018) [OCCUPATION:transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [15360,15360,200]
+10.02.2019 22:57:18: V70 (14-11-2018) [OCCUPATION:transport]:: Found 3 markers to use as pickup points @ 289.221
+10.02.2019 22:57:18: V70 (14-11-2018) [OCCUPATION:transport]:: textures for vehicle are: ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+10.02.2019 22:57:18: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:38 multipler is 4
+10.02.2019 22:57:33: V70 (14-11-2018) [OCCUPATION]:: threads added at 303.795
+10.02.2019 22:57:39: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 309.592
+10.02.2019 22:57:39: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 22:58:23: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:42 multipler is 4
+10.02.2019 22:58:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 374.564
+10.02.2019 22:58:44: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 22:59:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:46 multipler is 4
+10.02.2019 22:59:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 436.763
+10.02.2019 22:59:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:00:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:50 multipler is 4
+10.02.2019 23:00:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 496.847
+10.02.2019 23:00:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:01:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:54 multipler is 4
+10.02.2019 23:01:36: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_blk_F",[""],[["Exile_Item_EMRE",1],["Exile_Item_Catfood",3],["30Rnd_580x42_Mag_F",2],["11Rnd_45ACP_Mag",2]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Bandit_5_F","V_BandollierB_oli","B_HuntingBackpack"]
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_blk_F",[""],[["Exile_Item_Cheathas",1],["Exile_Item_Cheathas",3],["150Rnd_556x45_Drum_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_Rook40_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_4_F","V_BandollierB_khk","B_TacticalPack_blk"]
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-4:1
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_khk_F",[""],[["Exile_Item_EMRE",1],["Exile_Item_EMRE",1],["30Rnd_556x45_Stanag",2],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Bandit_2_F","V_BandollierB_cbr",""]
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-4:1
+10.02.2019 23:01:49: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [14481.1,19672.8,0]
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_blk_F",[""],[["Exile_Item_DuctTape",1],["Exile_Item_Vishpirin",3],["30Rnd_65x39_caseless_green",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Bandit_1_F","V_BandollierB_khk",""]
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_02_khk_F",[""],[["Exile_Item_Catfood",1],["150Rnd_556x45_Drum_Mag_F",2],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_B_CTRG_Soldier_urb_2_F","V_BandollierB_cbr",""]
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-5:1
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_hex_F",[""],[["Exile_Item_EMRE",3],["Exile_Item_BBQSandwich",1],["30Rnd_65x39_caseless_green",2],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Para_1_F","V_BandollierB_khk","B_TacticalPack_rgr"]
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-5:1
+10.02.2019 23:02:10: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4071.31,20781.9,1.52588e-005]
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_PlasticBottleFreshWater",1],["Exile_Item_EMRE",2],["30Rnd_762x39_Mag_F",2],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Para_3_F","V_BandollierB_oli","B_TacticalPack_ocamo"]
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_blk_F",[""],[["Exile_Item_Catfood",2],["20Rnd_762x51_Mag",2],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Bandit_3_F","V_BandollierB_blk","B_TacticalPack_rgr"]
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-6:1
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_Energydrink",2],["Exile_Item_Energydrink",1],["30Rnd_762x39_Mag_F",3],["6Rnd_45ACP_Cylinder",2]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Para_4_F","V_BandollierB_cbr","B_OutdoorPack_blk"]
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 3-6:1
+10.02.2019 23:02:26: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [22759.4,20042,0]
+10.02.2019 23:02:38: V70 (14-11-2018) [OCCUPATION:Vehicle] End check 3 currently active (max 3) @ 608.827
+10.02.2019 23:02:43: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 15:59 multipler is 4
+10.02.2019 23:02:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 614.036
+10.02.2019 23:02:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:02:43: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:02:43: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_01_GL_khk_F",[""],[["Exile_Item_InstaDoc",3],["30Rnd_556x45_Stanag",2],["9Rnd_45ACP_Mag",2]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Para_2_F","V_BandollierB_blk","B_OutdoorPack_blu"]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Driver added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_SPAR_03_snd_F",[""],[["Exile_Item_Noodles",1],["20Rnd_762x51_Mag",2],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_khk","U_I_C_Soldier_Para_4_F","V_BandollierB_blk","B_TacticalPack_ocamo"]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Turret added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_GL_blk_F",[""],[["Exile_Item_EMRE",2],["30Rnd_580x42_Mag_F",2],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_2_F","V_BandollierB_oli","B_Kitbag_sgg"]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Turret added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_MX_SW_khk_F",[""],[["Exile_Item_InstaDoc",2],["Exile_Item_BBQSandwich",3],["100Rnd_65x39_caseless_mag",3],["6Rnd_45ACP_Cylinder",3]],"hgun_Pistol_heavy_02_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Bandit_4_F","V_BandollierB_cbr","B_TacticalPack_oli"]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Turret added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_ARX_hex_F",[""],[["Exile_Item_Vishpirin",2],["Exile_Item_DuctTape",2],["30Rnd_65x39_caseless_green",2],["16Rnd_9x21_Mag",2]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_I_C_Soldier_Bandit_4_F","V_BandollierB_cbr",""]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Turret added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AKM_F",[""],[["Exile_Item_InstaDoc",2],["Exile_Item_Energydrink",3],["30Rnd_762x39_Mag_F",2],["11Rnd_45ACP_Mag",3]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_ShemagOpen_tan","U_I_C_Soldier_Camo_F","V_BandollierB_blk","B_Kitbag_cbr"]
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Turret added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:44: V70 (14-11-2018) [OCCUPATION:Sky] Cargo added to O Alpha 4-1:1
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Sky] Running
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 615.391
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Anthrakia position: [16584.3,16104,-15.1762]
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 71 so not spawning AI this time
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Telos position: [16207,17296.7,-24.3308]
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: (Telos) [16207,17296.7,-24.3308] is not a safe place to spawn
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Gravia position: [14479.8,17614.3,-21.6749]
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 66 so not spawning AI this time
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Stavros position: [12950.1,15041.6,-28.1891]
+10.02.2019 23:02:45: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 52 so not spawning AI this time
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Charkia position: [18049.1,15264.1,-28.4237]
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 49 so not spawning AI this time
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neochori position: [12502,14337,-11.5868]
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 20 so not spawning AI this time
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Pyrgos position: [16780.6,12604.5,-18.9913]
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 53 so not spawning AI this time
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Lakka position: [12282,15732.3,-23.0026]
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 3 so not spawning AI this time
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Rodopoli position: [18753.4,16597.1,-32.1656]
+10.02.2019 23:02:46: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 54 so not spawning AI this time
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Athira position: [13993,18709.4,-25.735]
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 73 so not spawning AI this time
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalithea position: [17826.5,18129.4,-1.99341]
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 56 so not spawning AI this time
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Katalaki position: [11701.1,13672.1,-12.7303]
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 2 so not spawning AI this time
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Nifi position: [19473.3,15453.7,-22.9098]
+10.02.2019 23:02:47: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 19 so not spawning AI this time
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Alikampos position: [11112.6,14573.7,-42.5353]
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: (Alikampos) [11112.6,14573.7,-42.5353] is not a safe place to spawn
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Dorida position: [19336.9,13252.3,-37.8615]
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 45 so not spawning AI this time
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Petros position: [19339.4,17641.6,-37.4067]
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 69 so not spawning AI this time
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Koroni position: [11786.7,18372.4,-51.9314]
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 48 so not spawning AI this time
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Poliakko position: [10966.5,13435.3,-28.4601]
+10.02.2019 23:02:48: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 68 so not spawning AI this time
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ifestiona position: [12787,19679.3,-46.1323]
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: (Ifestiona) [12787,19679.3,-46.1323] is not a safe place to spawn
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agia Triada position: [16668.5,20487,-4.767]
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 50 so not spawning AI this time
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Orino position: [10410.4,17243.1,-82.7311]
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: (Orino) [10410.4,17243.1,-82.7311] is not a safe place to spawn
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Frini position: [14612.5,20786.7,-47.0032]
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 7 so not spawning AI this time
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ekali position: [17059.7,9992.32,-21.8159]
+10.02.2019 23:02:49: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 53 so not spawning AI this time
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Therisa position: [10618.9,12237.3,-16.0326]
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 24 so not spawning AI this time
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Paros position: [20885.4,16958.8,-49.8089]
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 28 so not spawning AI this time
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalochori position: [21351.6,16361.9,-20.5678]
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 15 so not spawning AI this time
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Chalkeia position: [20194.6,11660.7,-45.8388]
+10.02.2019 23:02:50: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 67 so not spawning AI this time
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Dionysios position: [9187.95,15947.8,-124.829]
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 67 so not spawning AI this time
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Galati position: [10270.3,19036,-120.191]
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: (Galati) [10270.3,19036,-120.191] is not a safe place to spawn
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Zaros position: [9091.81,11961.9,-19.9013]
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 32 so not spawning AI this time
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Syrta position: [8625.13,18301.6,-179.297]
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: (Syrta) [8625.13,18301.6,-179.297] is not a safe place to spawn
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Abdera position: [9425.42,20284,-122.26]
+10.02.2019 23:02:51: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 9 so not spawning AI this time
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Topolia position: [7375.81,15429.5,-54.782]
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 59 so not spawning AI this time
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panagia position: [20490.2,8907.12,-34.5332]
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 12 so not spawning AI this time
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kore position: [7062.42,16472.1,-116.425]
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 42 so not spawning AI this time
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ioannina position: [23199.7,19986.6,-14.2541]
+10.02.2019 23:02:52: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Delfinaki position: [23908.6,20144.7,-14.0692]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 79 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Feres position: [21640.7,7583.93,-14.1929]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 38 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Selakano position: [20769.8,6736.46,-37.9427]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 46 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Negades position: [4885.98,16171.3,-77.5036]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 73 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panochori position: [5033.31,11245.2,-48.317]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 27 so not spawning AI this time
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Konstantinos position: [3948.77,17277.8,-11.6385]
+10.02.2019 23:02:53: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 55 so not spawning AI this time
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Aggelochori position: [3687.78,13776.1,-10.7639]
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: (Aggelochori) [3687.78,13776.1,-10.7639] is not a safe place to spawn
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neri position: [4116.11,11736.1,-50.8535]
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 50 so not spawning AI this time
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Sofia position: [25680.5,21365.1,-20.7333]
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: (Sofia) [25680.5,21365.1,-20.7333] is not a safe place to spawn
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kavala position: [3458.95,12966.4,-6.1822]
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 77 so not spawning AI this time
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Oreokastro position: [4560.45,21460.6,-302.575]
+10.02.2019 23:02:54: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 71 so not spawning AI this time
+10.02.2019 23:02:55: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Molos position: [26943.9,23170.7,-18.0848]
+10.02.2019 23:02:55: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 57 so not spawning AI this time
+10.02.2019 23:02:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 625.623
+10.02.2019 23:02:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:02:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 REMOTE is active
+10.02.2019 23:02:59: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+10.02.2019 23:02:59: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4071.29,20782,0.00778198] @ 629.732
+10.02.2019 23:02:59: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [4071.29,20782,0.00778198] to [4076.72,20779.2,0] resetting patrol around point [4071.31,20781.9,1.52588e-005] @ 629.929
+10.02.2019 23:03:01: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:03:03: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 634.005
+10.02.2019 23:03:45: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:3 multipler is 4
+10.02.2019 23:03:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 675.659
+10.02.2019 23:03:45: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:04:50: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:8 multipler is 4
+10.02.2019 23:04:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 740.532
+10.02.2019 23:04:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:05:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:12 multipler is 4
+10.02.2019 23:05:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 805.284
+10.02.2019 23:05:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:07:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:16 multipler is 4
+10.02.2019 23:07:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 870.242
+10.02.2019 23:07:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:07:40: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:07:41: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTARS_blk_F",[""],[["Exile_Item_Cheathas",2],["Exile_Item_PlasticBottleFreshWater",2],["Exile_Item_InstaDoc",3],["100Rnd_580x42_Mag_F",3],["9Rnd_45ACP_Mag",3]],"hgun_ACPC2_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_khk","U_I_C_Soldier_Para_1_F","V_BandollierB_khk",""]
+10.02.2019 23:07:41: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_CTAR_GL_blk_F",[""],[["Exile_Item_EMRE",2],["Exile_Item_EMRE",1],["30Rnd_580x42_Mag_F",2],["16Rnd_9x21_Mag",3]],"hgun_P07_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_tan","U_B_CTRG_Soldier_urb_3_F","V_BandollierB_blk",""]
+10.02.2019 23:07:41: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 1-1:1
+10.02.2019 23:07:42: V70 (14-11-2018) [OCCUPATION]:: bandit loadout created: ["arifle_AK12_GL_F",[""],[["Exile_Item_Vishpirin",2],["30Rnd_762x39_Mag_F",2],["11Rnd_45ACP_Mag",3]],"hgun_Pistol_heavy_01_F",[""],["ItemMap","ItemCompass","ItemRadio","ItemWatch"],"","H_Shemag_olive","U_I_C_Soldier_Para_1_F","V_BandollierB_oli",""]
+10.02.2019 23:07:42: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit Turret added to vehicle O Alpha 1-1:1
+10.02.2019 23:07:42: V70 (14-11-2018) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [7435.85,18136.7,0]
+10.02.2019 23:07:54: V70 (14-11-2018) [OCCUPATION:Vehicle] End check 3 currently active (max 3) @ 923.858
+10.02.2019 23:07:54: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:07:54: V70 (14-11-2018) [OCCUPATION:Sky] End check 1 currently active (max 1) @ 924.366
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 929.903
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Anthrakia position: [16584.3,16104,-15.1762]
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 60 so not spawning AI this time
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Telos position: [16207,17296.7,-24.3308]
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 12 so not spawning AI this time
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Gravia position: [14479.8,17614.3,-21.6749]
+10.02.2019 23:08:00: V70 (14-11-2018) [OCCUPATION:Places]:: (Gravia) [14479.8,17614.3,-21.6749] is not a safe place to spawn
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Stavros position: [12950.1,15041.6,-28.1891]
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 66 so not spawning AI this time
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Charkia position: [18049.1,15264.1,-28.4237]
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 48 so not spawning AI this time
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neochori position: [12502,14337,-11.5868]
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 31 so not spawning AI this time
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Pyrgos position: [16780.6,12604.5,-18.9913]
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 61 so not spawning AI this time
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Lakka position: [12282,15732.3,-23.0026]
+10.02.2019 23:08:01: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 5 so not spawning AI this time
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Rodopoli position: [18753.4,16597.1,-32.1656]
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 2 so not spawning AI this time
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Athira position: [13993,18709.4,-25.735]
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 65 so not spawning AI this time
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalithea position: [17826.5,18129.4,-1.99341]
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 57 so not spawning AI this time
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Katalaki position: [11701.1,13672.1,-12.7303]
+10.02.2019 23:08:02: V70 (14-11-2018) [OCCUPATION:Places]:: (Katalaki) [11701.1,13672.1,-12.7303] is not a safe place to spawn
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Nifi position: [19473.3,15453.7,-22.9098]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 18 so not spawning AI this time
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Alikampos position: [11112.6,14573.7,-42.5353]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 49 so not spawning AI this time
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Dorida position: [19336.9,13252.3,-37.8615]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 34 so not spawning AI this time
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Petros position: [19339.4,17641.6,-37.4067]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 67 so not spawning AI this time
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Koroni position: [11786.7,18372.4,-51.9314]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 32 so not spawning AI this time
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Poliakko position: [10966.5,13435.3,-28.4601]
+10.02.2019 23:08:03: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 13 so not spawning AI this time
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ifestiona position: [12787,19679.3,-46.1323]
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: (Ifestiona) [12787,19679.3,-46.1323] is not a safe place to spawn
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agia Triada position: [16668.5,20487,-4.767]
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 69 so not spawning AI this time
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Orino position: [10410.4,17243.1,-82.7311]
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: (Orino) [10410.4,17243.1,-82.7311] is not a safe place to spawn
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Frini position: [14612.5,20786.7,-47.0032]
+10.02.2019 23:08:04: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 45 so not spawning AI this time
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ekali position: [17059.7,9992.32,-21.8159]
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 35 so not spawning AI this time
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Therisa position: [10618.9,12237.3,-16.0326]
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: (Therisa) [10618.9,12237.3,-16.0326] is not a safe place to spawn
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Paros position: [20885.4,16958.8,-49.8089]
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 78 so not spawning AI this time
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kalochori position: [21351.6,16361.9,-20.5678]
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 79 so not spawning AI this time
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Chalkeia position: [20194.6,11660.7,-45.8388]
+10.02.2019 23:08:05: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 60 so not spawning AI this time
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Dionysios position: [9187.95,15947.8,-124.829]
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: (Agios Dionysios) [9187.95,15947.8,-124.829] is not a safe place to spawn
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Galati position: [10270.3,19036,-120.191]
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 68 so not spawning AI this time
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Zaros position: [9091.81,11961.9,-19.9013]
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 12 so not spawning AI this time
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Syrta position: [8625.13,18301.6,-179.297]
+10.02.2019 23:08:06: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Abdera position: [9425.42,20284,-122.26]
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Topolia position: [7375.81,15429.5,-54.782]
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 30 so not spawning AI this time
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panagia position: [20490.2,8907.12,-34.5332]
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 77 so not spawning AI this time
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kore position: [7062.42,16472.1,-116.425]
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: (Kore) [7062.42,16472.1,-116.425] is not a safe place to spawn
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Ioannina position: [23199.7,19986.6,-14.2541]
+10.02.2019 23:08:07: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 16 so not spawning AI this time
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Delfinaki position: [23908.6,20144.7,-14.0692]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 39 so not spawning AI this time
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Feres position: [21640.7,7583.93,-14.1929]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 17 so not spawning AI this time
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Selakano position: [20769.8,6736.46,-37.9427]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: (Selakano) [20769.8,6736.46,-37.9427] is not a safe place to spawn
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Negades position: [4885.98,16171.3,-77.5036]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 17 so not spawning AI this time
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Panochori position: [5033.31,11245.2,-48.317]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 26 so not spawning AI this time
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Agios Konstantinos position: [3948.77,17277.8,-11.6385]
+10.02.2019 23:08:08: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 63 so not spawning AI this time
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Aggelochori position: [3687.78,13776.1,-10.7639]
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 34 so not spawning AI this time
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Neri position: [4116.11,11736.1,-50.8535]
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 47 so not spawning AI this time
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Sofia position: [25680.5,21365.1,-20.7333]
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 31 so not spawning AI this time
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Kavala position: [3458.95,12966.4,-6.1822]
+10.02.2019 23:08:09: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 78 so not spawning AI this time
+10.02.2019 23:08:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Oreokastro position: [4560.45,21460.6,-302.575]
+10.02.2019 23:08:10: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 4 so not spawning AI this time
+10.02.2019 23:08:10: V70 (14-11-2018) [OCCUPATION:Places]:: Testing location name: Molos position: [26943.9,23170.7,-18.0848]
+10.02.2019 23:08:10: V70 (14-11-2018) [OCCUPATION:Places]:: Rolled 44 so not spawning AI this time
+10.02.2019 23:08:15: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:21 multipler is 4
+10.02.2019 23:08:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 945.159
+10.02.2019 23:08:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:08:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 945.159
+10.02.2019 23:08:15: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:08:17: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 REMOTE is active
+10.02.2019 23:08:19: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:08:21: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 1-1:1 is active
+10.02.2019 23:08:23: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 953.331
+10.02.2019 23:09:18: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:26 multipler is 4
+10.02.2019 23:09:18: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1008.04
+10.02.2019 23:09:18: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:10:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:30 multipler is 4
+10.02.2019 23:10:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1073.04
+10.02.2019 23:10:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:11:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:34 multipler is 4
+10.02.2019 23:11:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1133.16
+10.02.2019 23:11:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-1:1 _repairStatus false
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 1-1:1 _repairStatus false
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-1:1 checking wheel HitLFWheel (damage: 1) @ 1156.23
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-1:1 checking wheel HitLF2Wheel (damage: 0.119612) @ 1156.23
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-1:1 checking wheel HitRFWheel (damage: 1) @ 1156.23
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-1:1 checking wheel HitRF2Wheel (damage: 0.162873) @ 1156.23
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 1-1:1 _repairStatus true
+10.02.2019 23:11:47: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-1:1 repairing(true) vehicle at 1156.26
+10.02.2019 23:11:54: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-1:1 finished repairing vehicle O Alpha 1-1:1 at 1163.23
+10.02.2019 23:12:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:38 multipler is 4
+10.02.2019 23:12:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1195.32
+10.02.2019 23:12:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:12:56: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:12:56: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 103 active AI, so not spawning AI this time
+10.02.2019 23:12:56: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:12:56: V70 (14-11-2018) [OCCUPATION:Sky]:: 103 active AI, so not spawning AI this time
+10.02.2019 23:13:11: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1240.5
+10.02.2019 23:13:11: V70 (14-11-2018) [OCCUPATION:Places]:: 103 active AI, so not spawning AI this time
+10.02.2019 23:13:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:42 multipler is 4
+10.02.2019 23:13:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1255.57
+10.02.2019 23:13:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:13:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1255.57
+10.02.2019 23:13:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:13:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:13:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:13:32: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 1-1:1 is active
+10.02.2019 23:13:34: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1263.7
+10.02.2019 23:14:29: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:46 multipler is 4
+10.02.2019 23:14:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1318.63
+10.02.2019 23:14:29: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:15:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:51 multipler is 4
+10.02.2019 23:15:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1380.99
+10.02.2019 23:15:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:16:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:55 multipler is 4
+10.02.2019 23:16:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1441.2
+10.02.2019 23:16:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:17:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 16:59 multipler is 4
+10.02.2019 23:17:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1501.35
+10.02.2019 23:17:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:17:57: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:17:57: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 110 active AI, so not spawning AI this time
+10.02.2019 23:17:57: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:17:57: V70 (14-11-2018) [OCCUPATION:Sky]:: 110 active AI, so not spawning AI this time
+10.02.2019 23:18:12: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1541.46
+10.02.2019 23:18:12: V70 (14-11-2018) [OCCUPATION:Places]:: 109 active AI, so not spawning AI this time
+10.02.2019 23:18:43: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:3 multipler is 4
+10.02.2019 23:18:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1571.64
+10.02.2019 23:18:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:18:43: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1571.64
+10.02.2019 23:18:43: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:18:45: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:18:47: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:18:49: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 1-1:1 is active
+10.02.2019 23:18:49: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [8394.74,18226.3,0.000595093] @ 1577.81
+10.02.2019 23:18:49: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [8394.74,18226.3,0.000595093] to [8400.47,18228.3,0] resetting patrol around point [7435.85,18136.7,0] @ 1578.05
+10.02.2019 23:18:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1580.12
+10.02.2019 23:19:46: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:7 multipler is 4
+10.02.2019 23:19:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1635.29
+10.02.2019 23:19:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:20:46: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:12 multipler is 4
+10.02.2019 23:20:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1695.49
+10.02.2019 23:20:46: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:21:59: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:16 multipler is 4
+10.02.2019 23:21:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1767.66
+10.02.2019 23:21:59: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-4:1 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:20 multipler is 4
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1828.27
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 106 active AI, so not spawning AI this time
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:23:00: V70 (14-11-2018) [OCCUPATION:Sky]:: 106 active AI, so not spawning AI this time
+10.02.2019 23:23:15: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1843.35
+10.02.2019 23:23:15: V70 (14-11-2018) [OCCUPATION:Places]:: 106 active AI, so not spawning AI this time
+10.02.2019 23:23:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 1883.42
+10.02.2019 23:23:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:23:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:23:59: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:24:01: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 1889.52
+10.02.2019 23:24:06: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:25 multipler is 4
+10.02.2019 23:24:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1894.54
+10.02.2019 23:24:06: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:25:14: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:29 multipler is 4
+10.02.2019 23:25:14: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 1961.82
+10.02.2019 23:25:14: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:26:14: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:33 multipler is 4
+10.02.2019 23:26:14: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2021.93
+10.02.2019 23:26:14: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:27:19: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:38 multipler is 4
+10.02.2019 23:27:19: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2086.86
+10.02.2019 23:27:19: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-2:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:28:04: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:28:04: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:28:04: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:28:04: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:28:19: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2146.53
+10.02.2019 23:28:19: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:28:24: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:42 multipler is 4
+10.02.2019 23:28:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2151.56
+10.02.2019 23:28:24: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R RTKLOL's Party:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:29:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2191.65
+10.02.2019 23:29:04: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:29:06: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:29:08: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:29:10: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2197.77
+10.02.2019 23:29:25: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:46 multipler is 4
+10.02.2019 23:29:25: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2212.81
+10.02.2019 23:29:25: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:30:25: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:50 multipler is 4
+10.02.2019 23:30:25: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2272.98
+10.02.2019 23:30:25: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:31:30: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:54 multipler is 4
+10.02.2019 23:31:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2337.57
+10.02.2019 23:31:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:32:30: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 17:58 multipler is 4
+10.02.2019 23:32:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2397.65
+10.02.2019 23:32:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:33:05: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:33:05: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:33:05: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:33:05: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:33:20: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2447.77
+10.02.2019 23:33:20: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:33:30: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 18:2 multipler is 24
+10.02.2019 23:33:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2457.81
+10.02.2019 23:33:30: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:34:10: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2497.88
+10.02.2019 23:34:10: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:34:12: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:34:14: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 REMOTE is active
+10.02.2019 23:34:16: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2504.01
+10.02.2019 23:34:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 18:27 multipler is 24
+10.02.2019 23:34:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2518.48
+10.02.2019 23:34:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:35:31: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:51 multipler is 4
+10.02.2019 23:35:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2578.61
+10.02.2019 23:35:31: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:36:37: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:55 multipler is 4
+10.02.2019 23:36:37: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2643.45
+10.02.2019 23:36:37: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:37:41: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 11:59 multipler is 4
+10.02.2019 23:37:41: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2708.09
+10.02.2019 23:37:41: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R RTKLOL's Party:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:38:06: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:38:06: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:38:06: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:38:06: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:38:21: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2748.18
+10.02.2019 23:38:21: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:38:41: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:3 multipler is 4
+10.02.2019 23:38:41: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2768.22
+10.02.2019 23:38:41: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:39:22: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 2808.08
+10.02.2019 23:39:22: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:39:23: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:39:26: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 REMOTE is active
+10.02.2019 23:39:28: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 2814.23
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-4:1 REMOTE _repairStatus false
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-4:1 REMOTE _repairStatus false
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-4:1 REMOTE checking wheel HitLFWheel (damage: 1) @ 2827.72
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-4:1 REMOTE checking wheel HitLF2Wheel (damage: 0.173228) @ 2827.72
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-4:1 REMOTE checking wheel HitRFWheel (damage: 1) @ 2827.72
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-4:1 REMOTE checking wheel HitRF2Wheel (damage: 0.251969) @ 2827.72
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-4:1 REMOTE _repairStatus true
+10.02.2019 23:39:41: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-4:1 REMOTE repairing(true) vehicle at 2827.82
+10.02.2019 23:39:43: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:7 multipler is 4
+10.02.2019 23:39:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2829.09
+10.02.2019 23:39:43: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R RTKLOL's Party:2 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:39:48: V70 (14-11-2018) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-4:1 REMOTE finished repairing vehicle a5a24100# 1816923: offroad_02_f.p3d REMOTE at 2834.82
+10.02.2019 23:40:50: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:12 multipler is 4
+10.02.2019 23:40:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2896.25
+10.02.2019 23:40:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R RTKLOL's Party:2 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:41:50: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:16 multipler is 4
+10.02.2019 23:41:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 2956.34
+10.02.2019 23:41:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R RTKLOL's Party:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:42:50: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:20 multipler is 4
+10.02.2019 23:42:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3016.4
+10.02.2019 23:42:50: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:43:10: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:43:10: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:43:10: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:43:10: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:43:25: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3051.53
+10.02.2019 23:43:25: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:43:55: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:24 multipler is 4
+10.02.2019 23:43:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3081
+10.02.2019 23:43:55: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:44:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3115.98
+10.02.2019 23:44:30: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:44:32: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:44:34: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:2 is active
+10.02.2019 23:44:36: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3122.09
+10.02.2019 23:44:56: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:28 multipler is 4
+10.02.2019 23:44:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3142.13
+10.02.2019 23:44:56: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:45:57: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:32 multipler is 4
+10.02.2019 23:45:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3202.23
+10.02.2019 23:45:57: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:47:02: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:37 multipler is 4
+10.02.2019 23:47:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3267.06
+10.02.2019 23:47:02: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:48:07: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:41 multipler is 4
+10.02.2019 23:48:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3331.97
+10.02.2019 23:48:07: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:48:12: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:48:12: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:48:12: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:48:12: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:48:27: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3352.04
+10.02.2019 23:48:27: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:49:12: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:45 multipler is 4
+10.02.2019 23:49:12: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3396.89
+10.02.2019 23:49:12: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:49:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3426.92
+10.02.2019 23:49:42: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:49:44: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:49:46: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:49:48: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3433.1
+10.02.2019 23:50:15: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:50 multipler is 4
+10.02.2019 23:50:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3460.15
+10.02.2019 23:50:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:51:15: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:54 multipler is 4
+10.02.2019 23:51:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3520.25
+10.02.2019 23:51:15: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:52:20: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 12:58 multipler is 4
+10.02.2019 23:52:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3585.01
+10.02.2019 23:52:20: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:53:15: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:53:15: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:53:15: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:53:15: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:53:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:2 multipler is 4
+10.02.2019 23:53:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3650.06
+10.02.2019 23:53:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Alpha 1-3:1 (Madlax) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:53:31: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3655.1
+10.02.2019 23:53:31: V70 (14-11-2018) [OCCUPATION:Places]:: 113 active AI, so not spawning AI this time
+10.02.2019 23:54:26: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:6 multipler is 4
+10.02.2019 23:54:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3710.19
+10.02.2019 23:54:26: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:2 (Wilson) REMOTE is still a bambi, awww!
+10.02.2019 23:54:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Initialised at 3735.24
+10.02.2019 23:54:51: V70 (14-11-2018) [OCCUPATION:Unstick]:: Air: O Alpha 4-1:1 is active
+10.02.2019 23:54:53: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+10.02.2019 23:54:55: V70 (14-11-2018) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+10.02.2019 23:54:55: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [15593.2,16255.6,-0.00461197] @ 3739.38
+10.02.2019 23:54:55: V70 (14-11-2018) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [15593.2,16255.6,-0.00461197] to [15596.7,16260.5,0] resetting patrol around point [14481.1,19672.8,0] @ 3739.57
+10.02.2019 23:54:57: V70 (14-11-2018) [OCCUPATION:Unstick]:: Finished at 3741.63
+10.02.2019 23:55:27: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:10 multipler is 4
+10.02.2019 23:55:27: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3771.69
+10.02.2019 23:55:27: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:2 (Wilson) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:56:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:15 multipler is 4
+10.02.2019 23:56:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3836.41
+10.02.2019 23:56:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:57:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:19 multipler is 4
+10.02.2019 23:57:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3896.51
+10.02.2019 23:57:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:58:17: V70 (14-11-2018) [OCCUPATION:Vehicle] Started
+10.02.2019 23:58:17: V70 (14-11-2018) [OCCUPATION:Vehicle]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:58:17: V70 (14-11-2018) [OCCUPATION:Sky] Started
+10.02.2019 23:58:17: V70 (14-11-2018) [OCCUPATION:Sky]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:58:32: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:23 multipler is 4
+10.02.2019 23:58:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 3956.63
+10.02.2019 23:58:32: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:1 (RTKLOL) REMOTE has been hunted recently, not spawning another group yet
+10.02.2019 23:58:32: V70 (14-11-2018) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3956.63
+10.02.2019 23:58:32: V70 (14-11-2018) [OCCUPATION:Places]:: 112 active AI, so not spawning AI this time
+10.02.2019 23:59:35: V70 (14-11-2018) [OCCUPATION:FastNights]::  Current in game time is 13:27 multipler is 4
+10.02.2019 23:59:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4018.6
+10.02.2019 23:59:35: V70 (14-11-2018) [OCCUPATION:RandomSpawn]:: R Lemme in wilsons vic:3 (Madlax) REMOTE rolled 36.1783 (88+ required) so not spawning another group yet

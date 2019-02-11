@@ -76,7 +76,7 @@ Vaas: 76561198013856564
 Madlax: 76561197989383835
 Koenig: 76561198016535899
 Infamous: 76561198080959920
-
+Wilson: 76561198058758223
 Level 4:
 
 
@@ -99,7 +99,7 @@ IronBullet: 76561198067709898
 /* "startAsNormal": if you add admin UIDs in here as well, they will start as almost "normal" player instead of with admin menu and such. */
 startAsNormal[] =
 {
-	"76561197989383835","76561198013856564","76561198016535899","76561198080959920"
+	""
 };
 
 /* Level 5 Menu*/
@@ -431,11 +431,12 @@ USE_ANNOUNCE_NEW_PLAYER = "true";
 	- Xverion
 	- Vaas
 	- Madlax
+	- Wilson
 */
-USE_UID_WHITELIST = "true";
+USE_UID_WHITELIST = "false";
 UID_WHITELIST[] =
 {
-	"76561198065853636","76561198030433683","76561197989383835","76561198013856564"
+	"76561198065853636","76561198030433683","76561197989383835","76561198013856564","76561198016535899","76561198080959920","76561198058758223"
 };
 
 
@@ -461,12 +462,12 @@ ESCMNUBOT = "by Exile & DM Development Team";
 BRIEFING_MSG = "false";	/* use mission briefing message: if   "BRIEFING_MSG = "false";"   then the message will be replaced by infiSTAR */
 HTML_LOAD_URL = "";		/* HTML_LOAD_URL = ""; == disabled and if you set a url it will be shown in ESCAPE menu. HTML in Arma/this is limited. Try it :) example: "http://goo.gl/gb0o7b" */
 ENABLE_PRIVATE_CHAT_MENU = "true";		/* players can open it by typing !chat in chat or by  custom controls -> "Use Action 3" */
-PRIVATE_CHAT_MENU_8GNETWORK = "false";	/* if this is "true" - players will only be able to use private chat if they enable 8GNetwork in their xm8 */
+PRIVATE_CHAT_MENU_8GNETWORK = "true";	/* if this is "true" - players will only be able to use private chat if they enable 8GNetwork in their xm8 */
 
 
 
 class infiSTAR_RESTART_SYSTEM {
-	enableSystem = "true";
+	enableSystem = "false";
 
 	/*
 		Locks the server when it starts, adds an eventhandler that kciks all players "on join" until the mpmission is initiated.

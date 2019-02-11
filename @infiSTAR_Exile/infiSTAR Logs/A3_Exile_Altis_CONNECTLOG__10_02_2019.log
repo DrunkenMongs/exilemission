@@ -1,0 +1,17 @@
+﻿10.02.2019 22:43:45: Connected (UID?): __SERVER__() Owner: 2
+10.02.2019 22:45:48: Connected (CLIENT_PING): Madlax(76561197989383835) Owner: 4, SteamName: ANGRY SALAD   [UpTime: 0h 1min 27s - ServerFPS: 45.3258]
+10.02.2019 22:47:27: Connected (CLIENT_PING): RTKLOL(76561198065853636) Owner: 5, SteamName: Vipes   [UpTime: 0h 3min 5s - ServerFPS: 46.2428]
+10.02.2019 22:48:26: Disconnected: Madlax(76561197989383835) Owner: 4, SteamName: ANGRY SALAD
+10.02.2019 22:49:06: Disconnected: Wilson(76561198058758223) Owner: 6, SteamName: 
+10.02.2019 22:49:15: Connected: Madlax(76561197989383835) Owner: 7, connections: 2
+10.02.2019 22:49:19: Connected (CLIENT_PING): Madlax(76561197989383835) Owner: 7, SteamName: ANGRY SALAD   [UpTime: 0h 4min 56s - ServerFPS: 44.9438]
+10.02.2019 22:51:51: Connected (UID?): __SERVER__() Owner: 2
+10.02.2019 22:52:55: Connected (CLIENT_PING): RTKLOL(76561198065853636) Owner: 5, SteamName: Vipes   [UpTime: 0h 0min 30s - ServerFPS: 45.1977]
+10.02.2019 22:53:00: Connected (CLIENT_PING): Madlax(76561197989383835) Owner: 6, SteamName: ANGRY SALAD   [UpTime: 0h 0min 34s - ServerFPS: 45.7143]
+10.02.2019 22:53:12: Connected (CLIENT_PING): Wilson(76561198058758223) Owner: 7, SteamName: moneypoww   [UpTime: 0h 0min 46s - ServerFPS: 45.8453]
+10.02.2019 23:29:19: Disconnected: Wilson(76561198058758223) Owner: 7, SteamName: moneypoww
+10.02.2019 23:29:59: Connected: Wilson(76561198058758223) Owner: 8, connections: 2
+10.02.2019 23:30:13: Connected (CLIENT_PING): Wilson(76561198058758223) Owner: 8, SteamName: moneypoww   [UpTime: 0h 37min 41s - ServerFPS: 47.1976]
+10.02.2019 23:42:42: Disconnected: RTKLOL(76561198065853636) Owner: 5, SteamName: Vipes
+10.02.2019 23:43:07: Connected: RTKLOL(76561198065853636) Owner: 9, connections: 2
+10.02.2019 23:43:10: Connected (CLIENT_PING): RTKLOL(76561198065853636) Owner: 9, SteamName: Vipes   [UpTime: 0h 50min 36s - ServerFPS: 47.4777]
