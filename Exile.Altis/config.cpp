@@ -128,7 +128,7 @@ class Exile_AbstractCraftingRecipe
 
 class CfgCraftingRecipes
 {
-	
+#include "EBM\recipes.hpp"	
 class BreachingChargeBigMomma: Exile_AbstractCraftingRecipe
 {
 	name = "Breaching Charge (Big Momma)";
@@ -1806,6 +1806,7 @@ class CfgExileAnimals
 };
 class CfgExileArsenal
 {
+	#include "EBM\prices.hpp"
 	#include "TRADERS\APEX\ItemListAPEX.hpp"
 	#include "TRADERS\ARMA3V\ItemListARMA3V.hpp"
 	#include "TRADERS\ARMA3W\ItemListARMA3W.hpp"
@@ -1841,6 +1842,9 @@ class CfgExileCustomCode
 	// Dynamic Icons
 	ExileClient_gui_hud_event_onKeyDown = "overrides\ExileClient_gui_hud_event_onKeyDown.sqf";
 
+	// Extended Base Mod
+	exileclient_system_lootmanager_thread_spawn = "EBM\exileclient_system_lootmanager_thread_spawn.sqf";
+	
 	// Spawn Menu
 	
 	//ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick = "xs\spawn\Overwrites\ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick.sqf";
@@ -2276,6 +2280,7 @@ class ExileAbstractAction
  */
 class CfgInteractionMenus
 {
+	#include "EBM\menus.hpp"
 	class Car 
 	{
 		targetType = 2;
@@ -3192,6 +3197,7 @@ class CfgTerritories
 };
 class CfgTraderCategories
 {
+	#include "EBM\traders.hpp"
 	#include "TRADERS\APEX\TraderCategoriesAPEX.hpp"
 	#include "TRADERS\ARMA3V\TraderCategoriesARMA3V.hpp"
 	#include "TRADERS\ARMA3W\TraderCategoriesARMA3W.hpp"
